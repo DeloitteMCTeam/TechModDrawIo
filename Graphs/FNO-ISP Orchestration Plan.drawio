@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T10:59:25.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YQtl021daFStsweeyS_X" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T11:00:08.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="52rwi5sdOwH8s5Mn4j5H" version="24.2.5" type="github">
   <diagram id="Wt03A1QVqHS0TchT8up-" name="FNO/ISP">
     <mxGraphModel dx="1434" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -736,6 +736,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="D_8uV8o0fvDKdxCETtGj-45" value="Other partners (MTC; Unitel, Safaricom)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="828" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
