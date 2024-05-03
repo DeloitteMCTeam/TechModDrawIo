@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T12:09:24.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="8biFLt7GbMrEnOfML7UK" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T12:17:01.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="y-tNTAMBIRB5ghlNA_oN" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2240" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -714,7 +714,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="etOzy3VYMUsT840urfqg" name="SA Residential">
-    <mxGraphModel dx="2929" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -724,65 +724,14 @@
         <mxCell id="C6wYDPSz61Ieyg42j_ny-2" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="70" y="560" width="470" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;O2F&lt;/h1&gt;&lt;div&gt;xxxxx&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-2">
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;O2F&lt;/h1&gt;&lt;div&gt;Sales Operations performed in Salesforce for the One2Fibre stream are currently live in production with ICX as billing system.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Orders are generated in clarity and fulfilled in Salesforce.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-2">
           <mxGeometry x="70" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-2">
           <mxGeometry width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-5" value="" style="group" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="80" y="680" width="245" height="138" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-5">
-          <mxGeometry y="29" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-7" value="Callouts To 3P External Systems" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-5">
-          <mxGeometry x="52" y="30" width="184" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-8" value="" style="group" connectable="0" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-5">
-          <mxGeometry width="240" height="138" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-9" value="" style="group" connectable="0" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-8">
-          <mxGeometry width="230" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-10" value="" style="group" connectable="0" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-9">
-          <mxGeometry y="58" width="230" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-10">
-          <mxGeometry width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-12" value="Callouts To MC External Systems" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-10">
-          <mxGeometry x="51" width="190" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-10">
-          <mxGeometry y="30" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-14" value="Vlocity Internal Action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-10">
-          <mxGeometry x="50" y="30" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-15" value="&lt;b&gt;Legend&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-9">
-          <mxGeometry width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-8">
-          <mxGeometry y="118" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-17" value="Milestones" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-8">
-          <mxGeometry x="57.5" y="118" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-18" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-8">
-          <mxGeometry x="139" y="118" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-19" value="Call-in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-8">
-          <mxGeometry x="196" y="119" width="44" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="80" y="828" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C6wYDPSz61Ieyg42j_ny-21" value="Callouts To&amp;nbsp; Connected Vide (CV)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="825" width="197" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-22" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;One2Fibre&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;: Order Provisioning Process for New Purchase - Clarity order&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="880" width="980" height="1080" as="geometry" />
+          <mxGeometry x="140" y="760" width="980" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-23" value="Amoeba" style="swimlane;horizontal=0;fontSize=13;dashed=1;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-22">
           <mxGeometry x="45.5" y="388" width="821" height="93" as="geometry">
@@ -952,14 +901,56 @@
         <mxCell id="C6wYDPSz61Ieyg42j_ny-62" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;NOTES&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1. Showmax customer lock verification is done by the FNO/ISP&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;before the order is submitted and the orchestration starts&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;2. If an existing customer purchases an additional DvS offer,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;the activation email should be sent for that new offer&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;3. SAP Events&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;POH - Proof of Handover (Picked&amp;amp;Packed)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;POA - Proof of Acceptance (Courier accepted)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;POD - Proof of Delivery (Customer accepted)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontSize=10;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-22">
           <mxGeometry x="38" y="849" width="360" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="uaihgpkM1m6uWsb5x_Zz-1" value="" style="group" vertex="1" connectable="0" parent="C6wYDPSz61Ieyg42j_ny-22">
+          <mxGeometry x="645" y="849" width="247" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry y="148" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-21" value="Callouts To&amp;nbsp; Connected Vide (CV)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry x="50" y="145" width="197" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry y="29" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-7" value="Callouts To 3P External Systems" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry x="52" y="30" width="184" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry y="118" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-17" value="Milestones" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry x="57.5" y="118" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-18" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry x="139" y="118" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-19" value="Call-in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry x="196" y="119" width="44" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-15" value="&lt;b&gt;Legend&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry y="58" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-12" value="Callouts To MC External Systems" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry x="51" y="58" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry y="88" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C6wYDPSz61Ieyg42j_ny-14" value="Vlocity Internal Action" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;container=0;" vertex="1" parent="uaihgpkM1m6uWsb5x_Zz-1">
+          <mxGeometry x="50" y="88" width="130" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-63" value="" style="group" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="80" y="2200" width="670" height="220" as="geometry" />
+          <mxGeometry x="70" y="2200" width="670" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-64" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;O2F Change Order Processes&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;O2F Change order processes are managed via dedicated orchestration plans based on the change order type.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;The system currently manages the following types of change order:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. Upgrade/Downgrade Product&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b.&amp;nbsp; Move Provider&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c.&amp;nbsp; Move Address&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;d.&amp;nbsp; Disconnect/Reconnect/Cancel Product&lt;/div&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal; text-wrap: nowrap; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;Tasd%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Partner%22%20style%3D%22shape%3DumlLifeline%3Bperimeter%3DlifelinePerimeter%3Bcontainer%3D1%3Bcollapsible%3D0%3BrecursiveResize%3D0%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3BfillColor%3D%239AC7BF%3BstrokeColor%3D%239673a6%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22940%22%20y%3D%22-170%22%20width%3D%22100%22%20height%3D%22200%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22points%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%2245%22%20y%3D%2270%22%20width%3D%2210%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22WM%22%20style%3D%22shape%3DumlLifeline%3Bperimeter%3DlifelinePerimeter%3Bcontainer%3D1%3Bcollapsible%3D0%3BrecursiveResize%3D0%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3BfillColor%3D%23FFF2CC%3BstrokeColor%3D%23d79b00%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221070%22%20y%3D%22-170%22%20width%3D%22110%22%20height%3D%22203.67%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2260%22%20y%3D%2270%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22173%22%20y%3D%2270%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22points%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20x%3D%2245%22%20y%3D%22163%22%20width%3D%2210%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%224%22%20target%3D%2213%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2255%22%20y%3D%22163%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22168%22%20y%3D%22163%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20value%3D%22ICX%22%20style%3D%22shape%3DumlLifeline%3Bperimeter%3DlifelinePerimeter%3Bcontainer%3D1%3Bcollapsible%3D0%3BrecursiveResize%3D0%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3BfillColor%3D%23FFCC99%3BstrokeColor%3D%23666666%3BfontColor%3D%23333333%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221201%22%20y%3D%22-170%22%20width%3D%22109%22%20height%3D%22200%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%229%22%20value%3D%22%22%20style%3D%22points%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3BfillColor%3D%23f5f5f5%3BstrokeColor%3D%23666666%3BfontColor%3D%23333333%3B%22%20vertex%3D%221%22%20parent%3D%228%22%3E%3CmxGeometry%20x%3D%22-86%22%20y%3D%2270%22%20width%3D%2210%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2210%22%20value%3D%22%22%20style%3D%22points%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%228%22%3E%3CmxGeometry%20x%3D%2245%22%20y%3D%2270%22%20width%3D%2210%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2211%22%20value%3D%22ICX%20Customer%20Number%22%20style%3D%22verticalAlign%3Dbottom%3BendArrow%3Dopen%3Bdashed%3D1%3BendSize%3D8%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D12%3BexitX%3D-0.11%3BexitY%3D0.887%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%228%22%20source%3D%2210%22%20target%3D%229%22%3E%3CmxGeometry%20x%3D%22-0.0842%22%20y%3D%2227%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-126%22%20y%3D%22107%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20x%3D%22124%22%20y%3D%22107%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22-1%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2212%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2012px%3B%26quot%3B%26gt%3BICX%20Customer%20Number%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23FFFFFF%3BstrokeColor%3D%23FFFFFF%3B%22%20vertex%3D%221%22%20parent%3D%228%22%3E%3CmxGeometry%20x%3D%22-11.75%22%20y%3D%22140%22%20width%3D%22123.5%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2213%22%20value%3D%22SFDC%22%20style%3D%22shape%3DumlLifeline%3Bperimeter%3DlifelinePerimeter%3Bcontainer%3D1%3Bcollapsible%3D0%3BrecursiveResize%3D0%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3BfillColor%3D%23D4E1F5%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221337%22%20y%3D%22-170%22%20width%3D%22100%22%20height%3D%22200%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2214%22%20value%3D%22%22%20style%3D%22points%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%2213%22%3E%3CmxGeometry%20x%3D%2245%22%20y%3D%22163%22%20width%3D%2210%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2215%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0.689%3BexitY%3D0.03%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22997.8900000000001%22%20y%3D%22-98.89000000000009%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%221110%22%20y%3D%22-98.99999999999999%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2216%22%20value%3D%22TMF629%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221450%22%20y%3D%22-89.99999999999999%22%20width%3D%2260%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-63">
           <mxGeometry x="70" width="600" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-65" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-63">
-          <mxGeometry width="40" height="38.82352941176471" as="geometry" />
+          <mxGeometry width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-66" value="Milestones" style="swimlane;horizontal=0;fontSize=13;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="2599" width="820" height="100" as="geometry">
@@ -1029,7 +1020,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-85" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;A- One2Fibre: Order Provisioning Process for Upgrade/Downgrade&amp;nbsp;Product - Clarity Order&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="2467.5" width="985" height="812.5" as="geometry" />
+          <mxGeometry x="137.5" y="2467.5" width="985" height="812.5" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-86" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;NOTES&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1. Showmax customer lock verification is done by the FNO/ISP&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;before the order is submitted and the orchestration starts&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;2. If an existing customer purchases an additional DvS offer,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;the activation email should be sent for that new offer&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontSize=10;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-85">
           <mxGeometry x="100" y="645.5" width="360" height="130" as="geometry" />
@@ -1038,7 +1029,7 @@
           <mxGeometry x="168" y="622.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-88" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;B- One2Fibre: Order Provisioning Process for Move Provider - Clarity Order&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3360" width="985" height="840" as="geometry" />
+          <mxGeometry x="137.5" y="3360" width="985" height="840" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-89" value="Milestones" style="swimlane;horizontal=0;fontSize=13;dashed=1;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-88">
           <mxGeometry x="90" y="70" width="820" height="100" as="geometry">
@@ -1142,7 +1133,7 @@
           <mxGeometry x="90" y="670" width="360" height="130" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-118" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;C- One2Fibre: Order Provisioning Process for Move Address - Clarity Order&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="4260" width="985" height="710" as="geometry" />
+          <mxGeometry x="137.5" y="4260" width="985" height="710" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-119" value="Milestones" style="swimlane;horizontal=0;fontSize=13;dashed=1;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-118">
           <mxGeometry x="90" y="60" width="820" height="100" as="geometry">
@@ -1282,7 +1273,7 @@
           <mxGeometry x="196" y="119" width="44" height="18" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-160" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;D-&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Go - Digital: Order Provisioning Process for Disconnect/Reconnect/Cancel Product&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="5040" width="990" height="590" as="geometry" />
+          <mxGeometry x="135" y="5040" width="990" height="590" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-161" value="Milestones" style="swimlane;horizontal=0;fontSize=13;dashed=1;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-160">
           <mxGeometry x="70" y="60" width="820" height="100" as="geometry">
@@ -1472,16 +1463,16 @@
           <mxGeometry x="196" y="119" width="44" height="18" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-222" value="" style="group" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="90" y="5790" width="670" height="220" as="geometry" />
+          <mxGeometry x="70" y="5790" width="670" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-223" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;DVS SA Order Processes&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;DVS SA&amp;nbsp; order processes are managed via dedicated orchestration plans based on the change order type.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;The system currently manages the following types of change order:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. New Purchase&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b.&amp;nbsp; Add /Remove product&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c.&amp;nbsp; Upgrade/Downgrade&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;d.&amp;nbsp; Disconnect/Cancel&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;e.&amp;nbsp; Reconnect&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;f.&amp;nbsp; Quantity Change&lt;br&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal; text-wrap: nowrap; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;Tasd%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Partner%22%20style%3D%22shape%3DumlLifeline%3Bperimeter%3DlifelinePerimeter%3Bcontainer%3D1%3Bcollapsible%3D0%3BrecursiveResize%3D0%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3BfillColor%3D%239AC7BF%3BstrokeColor%3D%239673a6%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22940%22%20y%3D%22-170%22%20width%3D%22100%22%20height%3D%22200%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22points%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20x%3D%2245%22%20y%3D%2270%22%20width%3D%2210%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22WM%22%20style%3D%22shape%3DumlLifeline%3Bperimeter%3DlifelinePerimeter%3Bcontainer%3D1%3Bcollapsible%3D0%3BrecursiveResize%3D0%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3BfillColor%3D%23FFF2CC%3BstrokeColor%3D%23d79b00%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221070%22%20y%3D%22-170%22%20width%3D%22110%22%20height%3D%22203.67%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2260%22%20y%3D%2270%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22173%22%20y%3D%2270%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20value%3D%22%22%20style%3D%22points%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%224%22%3E%3CmxGeometry%20x%3D%2245%22%20y%3D%22163%22%20width%3D%2210%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%224%22%20target%3D%2213%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2255%22%20y%3D%22163%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22168%22%20y%3D%22163%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20value%3D%22ICX%22%20style%3D%22shape%3DumlLifeline%3Bperimeter%3DlifelinePerimeter%3Bcontainer%3D1%3Bcollapsible%3D0%3BrecursiveResize%3D0%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3BfillColor%3D%23FFCC99%3BstrokeColor%3D%23666666%3BfontColor%3D%23333333%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221201%22%20y%3D%22-170%22%20width%3D%22109%22%20height%3D%22200%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%229%22%20value%3D%22%22%20style%3D%22points%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3BfillColor%3D%23f5f5f5%3BstrokeColor%3D%23666666%3BfontColor%3D%23333333%3B%22%20vertex%3D%221%22%20parent%3D%228%22%3E%3CmxGeometry%20x%3D%22-86%22%20y%3D%2270%22%20width%3D%2210%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2210%22%20value%3D%22%22%20style%3D%22points%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%228%22%3E%3CmxGeometry%20x%3D%2245%22%20y%3D%2270%22%20width%3D%2210%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2211%22%20value%3D%22ICX%20Customer%20Number%22%20style%3D%22verticalAlign%3Dbottom%3BendArrow%3Dopen%3Bdashed%3D1%3BendSize%3D8%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D12%3BexitX%3D-0.11%3BexitY%3D0.887%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%228%22%20source%3D%2210%22%20target%3D%229%22%3E%3CmxGeometry%20x%3D%22-0.0842%22%20y%3D%2227%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-126%22%20y%3D%22107%22%20as%3D%22targetPoint%22%2F%3E%3CmxPoint%20x%3D%22124%22%20y%3D%22107%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22-1%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2212%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2012px%3B%26quot%3B%26gt%3BICX%20Customer%20Number%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23FFFFFF%3BstrokeColor%3D%23FFFFFF%3B%22%20vertex%3D%221%22%20parent%3D%228%22%3E%3CmxGeometry%20x%3D%22-11.75%22%20y%3D%22140%22%20width%3D%22123.5%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2213%22%20value%3D%22SFDC%22%20style%3D%22shape%3DumlLifeline%3Bperimeter%3DlifelinePerimeter%3Bcontainer%3D1%3Bcollapsible%3D0%3BrecursiveResize%3D0%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3BfillColor%3D%23D4E1F5%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221337%22%20y%3D%22-170%22%20width%3D%22100%22%20height%3D%22200%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2214%22%20value%3D%22%22%20style%3D%22points%3D%5B%5D%3Bperimeter%3DorthogonalPerimeter%3Brounded%3D0%3Bshadow%3D0%3BstrokeWidth%3D1%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%2213%22%3E%3CmxGeometry%20x%3D%2245%22%20y%3D%22163%22%20width%3D%2210%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2215%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D0.689%3BexitY%3D0.03%3BexitDx%3D0%3BexitDy%3D0%3BexitPerimeter%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22997.8900000000001%22%20y%3D%22-98.89000000000009%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%221110%22%20y%3D%22-98.99999999999999%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2216%22%20value%3D%22TMF629%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221450%22%20y%3D%22-89.99999999999999%22%20width%3D%2260%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-222">
           <mxGeometry x="70" width="600" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-224" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-222">
-          <mxGeometry width="40" height="38.82352941176471" as="geometry" />
+          <mxGeometry width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-225" value="A-&amp;nbsp;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;SA Residential DVS Products: Order Provisioning Process for New Purchase - Clarity order&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="102.5" y="6090" width="867.5" height="920" as="geometry" />
+          <mxGeometry x="135" y="6090" width="867.5" height="920" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-226" value="ICX" style="swimlane;horizontal=0;fontSize=13;dashed=1;startSize=23;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-225">
           <mxGeometry x="14.5" y="382" width="821" height="77" as="geometry">
@@ -1618,7 +1609,7 @@
           <mxGeometry x="610.5" y="873.5" width="226" height="26" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-267" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;B- SA Residential DVS Products: Order Provisioning Process for Add/rRemove product - Clarity order&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="102.5" y="7080" width="867.5" height="920" as="geometry" />
+          <mxGeometry x="135" y="7080" width="867.5" height="920" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-268" value="" style="group" connectable="0" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-267">
           <mxGeometry x="568.5" y="737" width="245" height="138" as="geometry" />
@@ -1758,7 +1749,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-310" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;C- SA Residential DVS Products: Order Provisioning Process for Upgrade/Downgrade - Clarity order&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="102.5" y="8100" width="922.5" height="940" as="geometry" />
+          <mxGeometry x="135" y="8100" width="922.5" height="940" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-311" value="" style="group" connectable="0" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-310">
           <mxGeometry x="573.5" y="755" width="245" height="138" as="geometry" />
@@ -1892,7 +1883,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-351" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;D- SA Residential DVS Products: Order Provisioning Process for Disconnect/Cancel - Clarity order&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="92.5" y="9120" width="947.5" height="1020" as="geometry" />
+          <mxGeometry x="135" y="9120" width="947.5" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-352" value="ICX" style="swimlane;horizontal=0;fontSize=13;dashed=1;startSize=23;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-351">
           <mxGeometry x="48" y="422" width="821" height="77" as="geometry">
@@ -2016,7 +2007,7 @@
           <mxGeometry x="156.5" y="744.5" width="153" height="90" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-388" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;E- SA Residential DVS Products: Order Provisioning Process for Reconnect- Clarity order&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="93.75" y="10230" width="947.5" height="950" as="geometry" />
+          <mxGeometry x="135" y="10230" width="947.5" height="950" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-389" value="ICX" style="swimlane;horizontal=0;fontSize=13;dashed=1;startSize=23;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-388">
           <mxGeometry x="31.75" y="382" width="821" height="77" as="geometry">
@@ -2158,7 +2149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-431" value="&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;F- SA Residential DVS Products: Order Provisioning Process for Quantity Change - Clarity order&lt;/font&gt;&lt;/b&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="98.75" y="11250" width="947.5" height="930" as="geometry" />
+          <mxGeometry x="135" y="11250" width="947.5" height="930" as="geometry" />
         </mxCell>
         <mxCell id="C6wYDPSz61Ieyg42j_ny-432" value="ICX" style="swimlane;horizontal=0;fontSize=13;dashed=1;startSize=23;" vertex="1" parent="C6wYDPSz61Ieyg42j_ny-431">
           <mxGeometry x="34.75" y="392" width="821" height="77" as="geometry">
@@ -2271,10 +2262,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3vCCtNaUdkRgVBeZP72E-1" value="&lt;b&gt;LIVE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Salesforce Production)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="508.5" y="560" width="173" height="40" as="geometry" />
+          <mxGeometry x="590" y="560" width="173" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3vCCtNaUdkRgVBeZP72E-2" value="&lt;b&gt;ICX&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillOpacity=50;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="508.5" y="610" width="173" height="40" as="geometry" />
+          <mxGeometry x="590" y="610" width="173" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3vCCtNaUdkRgVBeZP72E-3" value="&lt;b&gt;LIVE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Salesforce Production)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="852" y="2200" width="173" height="40" as="geometry" />
