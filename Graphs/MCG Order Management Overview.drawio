@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T10:17:03.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="WEoUWJ8Btj0Cnan_NxeM" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T10:17:53.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="f4YC7CrN_3fWYA6wenBy" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="1650" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -862,7 +862,7 @@
           <mxGeometry width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-254" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Vlocity Order Provisioning Process&lt;/b&gt;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;for New Purchase&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1206" y="2906" width="1467" height="918" as="geometry" />
+          <mxGeometry x="140" y="2830" width="1467" height="918" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-255" value="Order Lifecycle DStv" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="IAIF-FgVM5nhlo7sXmSl-254">
           <mxGeometry y="30" width="1467" height="150" as="geometry" />
@@ -965,41 +965,41 @@
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="IAIF-FgVM5nhlo7sXmSl-254" source="IAIF-FgVM5nhlo7sXmSl-262" target="IAIF-FgVM5nhlo7sXmSl-257">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IAIF-FgVM5nhlo7sXmSl-291" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2027.5" y="2695" width="268" height="191" as="geometry" />
+        <mxCell id="IAIF-FgVM5nhlo7sXmSl-291" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;arcSize=4;fillOpacity=60;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2559" width="268" height="191" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-292" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Legend&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2042.1959247648902" y="2699" width="82" height="34" as="geometry" />
+          <mxGeometry x="154.69592476489015" y="2563" width="82" height="34" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-293" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2128" y="2792.5" width="50.88620689655171" height="20" as="geometry" />
+          <mxGeometry x="240.5" y="2656.5" width="50.88620689655171" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-294" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2128" y="2732.5" width="50.88620689655171" height="21" as="geometry" />
+          <mxGeometry x="240.5" y="2596.5" width="50.88620689655171" height="21" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-295" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2128" y="2762.5" width="50.88620689655171" height="20" as="geometry" />
+          <mxGeometry x="240.5" y="2626.5" width="50.88620689655171" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-296" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2128" y="2822.5" width="50.88620689655171" height="20" as="geometry" />
+          <mxGeometry x="240.5" y="2686.5" width="50.88620689655171" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-297" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2128" y="2851.5" width="50.88620689655171" height="20" as="geometry" />
+          <mxGeometry x="240.5" y="2715.5" width="50.88620689655171" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-298" value="Milestone" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2189.0634482758624" y="2821.5" width="69" height="26" as="geometry" />
+          <mxGeometry x="301.56344827586236" y="2685.5" width="69" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-299" value="Callout" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2189.0634482758624" y="2730" width="55" height="26" as="geometry" />
+          <mxGeometry x="301.56344827586236" y="2594" width="55" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-300" value="Auto - Task" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2189.0634482758624" y="2760.5" width="78" height="26" as="geometry" />
+          <mxGeometry x="301.56344827586236" y="2624.5" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-301" value="Manual Task" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2189.0634482758624" y="2790.5" width="85" height="26" as="geometry" />
+          <mxGeometry x="301.56344827586236" y="2654.5" width="85" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-302" value="Push Event" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="2189.0634482758624" y="2851.5" width="79" height="26" as="geometry" />
+          <mxGeometry x="301.56344827586236" y="2715.5" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-303" value="&lt;b style=&quot;border-color: var(--border-color); text-align: left; font-size: 10px;&quot;&gt;SOLUTION&lt;/b&gt;:&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;You can create an orchestration item definition that&#39;s configured to invoke an integration procedure (IP). Create an auto task definition using the XOMAutoTaskInvokeIntegrationProcedure implementation, and enter the IP name in the parameters.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="4368.5" y="3769" width="274" height="109" as="geometry" />
