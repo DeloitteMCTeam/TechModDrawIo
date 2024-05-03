@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:51:50.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="1-EOS_zDu__dOISCpvOJ" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:53:36.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="I3Qlc_fRvgbQyT-bQBen" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2063" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2265,7 +2265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvtuyO4tdoTl3BxF-Ei7" name="DStv for Business">
-    <mxGraphModel dx="3438" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="793" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2836,7 +2836,7 @@
         <mxCell id="b6WvsV3XznPne5ETqdoA-169" value="SAP" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=23;" parent="b6WvsV3XznPne5ETqdoA-149" vertex="1">
           <mxGeometry y="483" width="1750" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="b6WvsV3XznPne5ETqdoA-170" value="SAP Sales Order Creation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="b6WvsV3XznPne5ETqdoA-169" vertex="1">
+        <mxCell id="b6WvsV3XznPne5ETqdoA-170" value="SAP Sales Order Creation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;" parent="b6WvsV3XznPne5ETqdoA-169" vertex="1">
           <mxGeometry x="629.95" y="5.690000000000097" width="156.04920832822853" height="47.61904761904762" as="geometry" />
         </mxCell>
         <mxCell id="9-MZdnQJ2yKFnHcshmHu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" parent="b6WvsV3XznPne5ETqdoA-169" source="b6WvsV3XznPne5ETqdoA-172" target="b6WvsV3XznPne5ETqdoA-175" edge="1">
@@ -2860,7 +2860,7 @@
         <mxCell id="9-MZdnQJ2yKFnHcshmHu-304" value="Hardware linking process for DStv for Business is yet to be developed.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The linking process includes a series of manual steps and integrated steps (SAP).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hardware sale not managed in Salesforce for DStv for Business.&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#f8cecc;strokeColor=#b85450;fillOpacity=50;align=left;verticalAlign=top;" parent="b6WvsV3XznPne5ETqdoA-169" vertex="1">
           <mxGeometry x="310" y="7.5" width="240" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="b6WvsV3XznPne5ETqdoA-181" value="SAP Callback con info (POH)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="b6WvsV3XznPne5ETqdoA-169" vertex="1">
+        <mxCell id="b6WvsV3XznPne5ETqdoA-181" value="SAP Callback con info (POH)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;" parent="b6WvsV3XznPne5ETqdoA-169" vertex="1">
           <mxGeometry x="630.0500000000003" y="76.00000000000004" width="156.04920832822853" height="47.61904761904762" as="geometry" />
         </mxCell>
         <mxCell id="9-MZdnQJ2yKFnHcshmHu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="b6WvsV3XznPne5ETqdoA-169" source="b6WvsV3XznPne5ETqdoA-170" target="b6WvsV3XznPne5ETqdoA-181" edge="1">
@@ -2868,9 +2868,6 @@
         </mxCell>
         <mxCell id="b6WvsV3XznPne5ETqdoA-183" value="&lt;h3&gt;6&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" parent="b6WvsV3XznPne5ETqdoA-169" vertex="1">
           <mxGeometry x="620" y="66" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="U3TRN9tAek2utJpgeZCw-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fillOpacity=50;" parent="b6WvsV3XznPne5ETqdoA-169" vertex="1">
-          <mxGeometry x="616" width="184" height="130" as="geometry" />
         </mxCell>
         <mxCell id="b6WvsV3XznPne5ETqdoA-177" value="HW Operation DStv" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="b6WvsV3XznPne5ETqdoA-149" vertex="1">
           <mxGeometry y="623" width="1750" height="157" as="geometry">
