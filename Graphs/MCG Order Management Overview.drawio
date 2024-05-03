@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T10:30:57.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="GzYSheCqN9-dI8n02313" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T10:32:23.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="wh0-XPSwZUq_hM2BlCSs" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
-    <mxGraphModel dx="1179" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5158" dy="2675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="d7O2_zujyi2-aSdZ7Dha-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="d7O2_zujyi2-aSdZ7Dha-5" vertex="1">
           <mxGeometry width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d7O2_zujyi2-aSdZ7Dha-8" value="&lt;b&gt;LIVE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(ICX)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;rotation=0;" parent="1" vertex="1">
+        <mxCell id="d7O2_zujyi2-aSdZ7Dha-8" value="&lt;b&gt;LIVE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Salesforce Production)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="560" width="173" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d7O2_zujyi2-aSdZ7Dha-10" value="CV (RTVAS)" style="swimlane;horizontal=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
@@ -371,15 +371,6 @@
         <mxCell id="d7O2_zujyi2-aSdZ7Dha-100" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;4&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="d7O2_zujyi2-aSdZ7Dha-98" vertex="1">
           <mxGeometry width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d7O2_zujyi2-aSdZ7Dha-103" value="&lt;b&gt;LIVE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(ICX)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="740" y="1190" width="173" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d7O2_zujyi2-aSdZ7Dha-104" value="&lt;b&gt;LIVE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(ICX)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="940" y="2610" width="173" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d7O2_zujyi2-aSdZ7Dha-105" value="&lt;b&gt;LIVE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(ICX)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="810" y="3550" width="173" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="52Mq4EbM6_vpZFNKqUwx-1" value="" style="group" parent="1" connectable="0" vertex="1">
           <mxGeometry x="190" y="3770" width="225" height="110" as="geometry" />
         </mxCell>
@@ -698,6 +689,27 @@
         <mxCell id="52Mq4EbM6_vpZFNKqUwx-83" value="The Activation Code can be used on any &lt;br&gt;device by the customer. It&#39;s not bound to an email address" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=12;align=left;size=18;" parent="1" vertex="1">
           <mxGeometry x="1120" y="4420" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="c_nKpEj5z_J1x9vZOHEJ-1" value="&lt;b&gt;ICX&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillOpacity=50;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="610" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c_nKpEj5z_J1x9vZOHEJ-2" value="&lt;b&gt;LIVE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Salesforce Production)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1190" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c_nKpEj5z_J1x9vZOHEJ-3" value="&lt;b&gt;ICX&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillOpacity=50;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1240" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c_nKpEj5z_J1x9vZOHEJ-4" value="&lt;b&gt;LIVE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Salesforce Production)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="2610" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c_nKpEj5z_J1x9vZOHEJ-5" value="&lt;b&gt;ICX&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillOpacity=50;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="2660" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c_nKpEj5z_J1x9vZOHEJ-6" value="&lt;b&gt;LIVE&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Salesforce Production)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3550" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c_nKpEj5z_J1x9vZOHEJ-7" value="&lt;b&gt;ICX&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillOpacity=50;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3600" width="173" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -710,7 +722,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvtuyO4tdoTl3BxF-Ei7" name="DStv for Business">
-    <mxGraphModel dx="3438" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="793" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1684,6 +1696,12 @@
         </mxCell>
         <mxCell id="IAIF-FgVM5nhlo7sXmSl-412" value="TechnicalOrder.Action = &#39;Add&#39;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=1;whiteSpace=wrap;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="IAIF-FgVM5nhlo7sXmSl-410" vertex="1">
           <mxGeometry y="60" width="234" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b6WvsV3XznPne5ETqdoA-2" value="&lt;b&gt;SingleView&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillOpacity=50;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="774" y="560" width="173" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b6WvsV3XznPne5ETqdoA-3" value="&lt;b&gt;SingleView&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillOpacity=50;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="670.31" y="2380" width="173" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
