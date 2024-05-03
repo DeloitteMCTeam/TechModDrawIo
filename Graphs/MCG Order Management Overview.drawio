@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:53:36.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="I3Qlc_fRvgbQyT-bQBen" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:53:58.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Uj9d4kUgva4myFFf3sgV" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2063" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2265,7 +2265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvtuyO4tdoTl3BxF-Ei7" name="DStv for Business">
-    <mxGraphModel dx="793" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2989,9 +2989,6 @@
         </mxCell>
         <mxCell id="9-MZdnQJ2yKFnHcshmHu-315" value="Salesforce Hardware Linking" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF8000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" parent="1" vertex="1">
           <mxGeometry x="2280" y="3225.3099999999995" width="118" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U3TRN9tAek2utJpgeZCw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fillOpacity=50;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="3018.56" width="260" height="191.44" as="geometry" />
         </mxCell>
         <mxCell id="_phkGYqqpNjBH7-lPKS0-13" value="Open points pending technical solution:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1) Focus with Eposly and SingleView for payment and billing processes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) Define the hardware linking and validation steps for the scenario where customer already own hardware device (DStv for Business).&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;align=left;fillOpacity=50;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1980" y="3610" width="338" height="150" as="geometry" />
