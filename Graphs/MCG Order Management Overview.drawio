@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T12:29:43.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="IZdsor-MqD1jIOLPGeme" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T12:36:56.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Qnfh3dJYJDaZkd4FRpJI" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="1587" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -714,7 +714,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="etOzy3VYMUsT840urfqg" name="SA Residential">
-    <mxGraphModel dx="1587" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2720" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3968,10 +3968,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="1904" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="762" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5eFyskZSTiSq7dRDaD7Y-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;MAH Residential&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MAH Residential foresees an order lifecycle including creation of new order and fulfillment of new order.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The fulfillment process is managed via dedicated orchestration plan that manages integration with SingleView (as opposed to ICX).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The order fulfillment process includes processes that are yet to be unpacked, such the hardware linking process with SAP integration.&lt;/div&gt;&lt;div&gt;Additionally, the hardware sales is covered within the sales process (new order).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The processes covered in this section are:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1) Order Creation Process&lt;/div&gt;&lt;div&gt;2) Order from Draft to Submitted&lt;/div&gt;&lt;div&gt;3) Order Submitted:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;a. Order State Model&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;b. Order Submission&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;c. Subscription Sale with Hardware:&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;i.&amp;nbsp; Pickup&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ii. Delivery&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;d. Order Orchestration Plan New Purchase.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="330" height="370" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
