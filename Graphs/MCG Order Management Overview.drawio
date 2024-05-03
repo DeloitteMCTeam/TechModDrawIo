@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T14:42:47.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="grY0RRvld9fwAGrDDdMt" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T14:42:53.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="EDKNlpVV_gbj8MEbCynn" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2303" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3366,9 +3366,6 @@
         </mxCell>
         <mxCell id="SEX4GykQuiXopav9V7xR-37" value="Payment Pending" style="rounded=1;whiteSpace=wrap;html=1;" parent="PKFauFFKiXEYx9iB_Fxz-4" vertex="1">
           <mxGeometry x="407" y="107.69999999999936" width="90" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="SEX4GykQuiXopav9V7xR-40" value="" style="image;html=1;image=img/lib/clip_art/general/Gear_128x128.png;fontSize=5;" parent="PKFauFFKiXEYx9iB_Fxz-4" vertex="1">
-          <mxGeometry x="679.55" y="152.69999999999982" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SEX4GykQuiXopav9V7xR-44" value="Expired" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="PKFauFFKiXEYx9iB_Fxz-4" vertex="1">
           <mxGeometry x="1545.5500000000002" y="356.2199999999998" width="90" height="45" as="geometry" />
