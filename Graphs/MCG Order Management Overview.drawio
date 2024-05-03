@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:24:05.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="GEMQ7gEdSb6GYAWMfXjU" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:24:48.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="uiHNaqbz2ZOLLvR7sfbY" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2240" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3968,7 +3968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="2929" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="680" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3993,7 +3993,7 @@
         <mxCell id="a-_tOVnJVL_xFdx78tSE-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="a-_tOVnJVL_xFdx78tSE-4">
           <mxGeometry width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-1" value="Create Order [CO]" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CKZN4XSmIQfmUJX1WZgz-1" value="Create Order" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="780" width="570" height="420" as="geometry" />
         </mxCell>
         <mxCell id="CKZN4XSmIQfmUJX1WZgz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CKZN4XSmIQfmUJX1WZgz-1" source="CKZN4XSmIQfmUJX1WZgz-3" target="CKZN4XSmIQfmUJX1WZgz-8">
@@ -4028,7 +4028,7 @@
         <mxCell id="CKZN4XSmIQfmUJX1WZgz-46" value="Order Created in Status Draft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CKZN4XSmIQfmUJX1WZgz-1">
           <mxGeometry x="452.55" y="135" width="103" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pEwps_pVkBZAmdYRtEJf-1" value="Order from DRAFT to SUBMITTED" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-1" value="Order from Draft to Submitted" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1280" width="1000" height="420" as="geometry" />
         </mxCell>
         <mxCell id="pEwps_pVkBZAmdYRtEJf-2" value="Submitted" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
