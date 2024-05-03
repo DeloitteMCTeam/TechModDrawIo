@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T14:36:31.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="kDaYmto1j7cb3shl2ojv" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T14:39:02.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Kk2XmnFNZ31zFw3k0FCc" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2303" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2997,7 +2997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="2751" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1875" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3149,10 +3149,10 @@
           <mxGeometry x="104.89" y="1022" width="195.11" height="198" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-36" value="&lt;b&gt;Payment Process&lt;br&gt;&lt;/b&gt;&lt;br&gt;Among the steps of the orchestration plan, we have the integration with the billing system, which manages three main sub processes:&lt;br&gt;&lt;br&gt;1) &lt;b&gt;Party &amp;amp; Customer API&lt;/b&gt;&lt;br&gt;Salesforce will send customer information (billing) to SingleView, which will create the underlying customer on their side.&lt;br&gt;&lt;br&gt;2)&amp;nbsp;&lt;b&gt;Send DStv Order Billing Info&lt;/b&gt;&lt;br&gt;Salesforce will send order information (billing) to SingleView.&amp;nbsp;&lt;br&gt;&lt;br&gt;3) &lt;b&gt;Payment Notification&lt;/b&gt;&lt;br&gt;SingleView will manage the Invoice generetion and payment from customer.&lt;br&gt;SingleView provides feedback from customer payment to Salesforce.&lt;br&gt;&lt;br&gt;Salesforce manages payload from SingleView and updates the status accordingly." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="PKFauFFKiXEYx9iB_Fxz-4" vertex="1">
-          <mxGeometry x="660" y="509.75" width="305.49" height="223" as="geometry" />
+          <mxGeometry x="652.255" y="509.75" width="305.49" height="223" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-38" value="&lt;b&gt;Integration with Billing System&lt;br&gt;&lt;/b&gt;&lt;br&gt;SV notifies SF 15 days from the order status transition to Partial Payment. &lt;br&gt;&lt;br&gt;If SV does not receive the total payment within 15 days, it will notify SF in order to cancel the order:&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- SF will manage the&amp;nbsp;order status transition to cancelled&amp;nbsp; once cancellation notification has been received&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;In this scenario, the client should receive a refund: the refund process will be managed by SV via adjustment process." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="PKFauFFKiXEYx9iB_Fxz-4" vertex="1">
-          <mxGeometry x="660" y="739.75" width="305.49" height="143" as="geometry" />
+          <mxGeometry x="652.255" y="739.75" width="305.49" height="143" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-43" value="&lt;b&gt;Payment Method_CASH&lt;br&gt;&lt;/b&gt;The Cash payment method allowed are: cash/card/cheque/mobile money.&amp;nbsp;&lt;br&gt;&lt;br&gt;Need confirmation about the need to track the payment subtype in order to define specific rules (e.g. check is allowed only for existing customers/no restrictions for customers - specific profiles (e.g. Head OF Finance) can override)." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#ffcccc;strokeColor=#B85450;fontSize=9;align=left;" parent="PKFauFFKiXEYx9iB_Fxz-4" vertex="1">
           <mxGeometry x="113.44" y="667" width="186" height="133" as="geometry" />
