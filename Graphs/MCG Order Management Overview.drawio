@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T12:55:57.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="tvpn93BoFh1qIhAUQIAm" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T12:56:58.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="J1-a_o4e5cnBYNAeFCJF" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="927" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4037,100 +4037,102 @@
         <mxCell id="CKZN4XSmIQfmUJX1WZgz-46" value="Order Created in Status Draft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CKZN4XSmIQfmUJX1WZgz-1" vertex="1">
           <mxGeometry x="452.55" y="135" width="103" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CKZN4XSmIQfmUJX1WZgz-17" target="CKZN4XSmIQfmUJX1WZgz-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-1" value="Order from DRAFT to SUBMITTED" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="780" width="1284" height="712" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-17" value="DRAFT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="988.5" y="854.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png;fontSize=5;" parent="1" vertex="1">
-          <mxGeometry x="1133.5" y="880.5" width="19" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-19" value="Order from DRAFT to SUBMITTED" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="932.5" y="780" width="1284" height="712" as="geometry" />
-        </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-20" value="Submitted" style="rounded=1;whiteSpace=wrap;html=1;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-2" value="Submitted" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="793.5" y="77.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-21" value="T&amp;amp;Cs Acceptance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0DFDF;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-3" value="T&amp;amp;Cs Acceptance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0DFDF;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="565.5" y="77" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-22" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;UMF&amp;nbsp;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/plugs-connected-128.png;strokeWidth=3;fontSize=9;imageBackground=default;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-4" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;UMF&amp;nbsp;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/plugs-connected-128.png;strokeWidth=3;fontSize=9;imageBackground=default;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="670.5" y="122" width="22.5" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;rotation=-180;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;rotation=-180;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="575.5" y="127.5" width="110" height="88.5" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-24" value="See dedicate flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-6" value="See dedicate flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="576.5" y="177" width="108" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-25" value="Review Catalog products/prices&lt;br&gt;ID: 11" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#ffcccc;strokeColor=#B85450;fontSize=9;align=left;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-7" value="Review Catalog products/prices&lt;br&gt;ID: 11" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#ffcccc;strokeColor=#B85450;fontSize=9;align=left;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="176" y="357" width="146" height="40.5" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-26" value="&lt;b&gt;[ODS-01] Cart Configuration - Cart visible only in &#39;&#39;Draft&#39;&#39; status&lt;/b&gt;&lt;br&gt;&lt;br&gt;Cart configuration can be done only when Order is in status &quot;Draft&quot;. When Order status is different than &quot;Draft&quot;, Cart is not visible and cannot be edited (button not visible).&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;a href=&quot;https://dev.azure.com/EBSDEVOPS/EBS/_workitems/edit/616313&quot; style=&quot;font-weight: 700;&quot;&gt;User Story 616313&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-8" value="&lt;div&gt;&lt;b&gt;Cart Configuration - Cart visible only in &#39;&#39;Draft&#39;&#39; status&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cart configuration can be done only when Order is in status &quot;Draft&quot;. When Order status is different than &quot;Draft&quot;, Cart is not visible and cannot be edited (button not visible).&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="176" y="216" width="145" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CKZN4XSmIQfmUJX1WZgz-19" source="CKZN4XSmIQfmUJX1WZgz-28" target="CKZN4XSmIQfmUJX1WZgz-38" edge="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pEwps_pVkBZAmdYRtEJf-1" source="pEwps_pVkBZAmdYRtEJf-10" target="pEwps_pVkBZAmdYRtEJf-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-28" value="&lt;b&gt;[ODS-02]- Pricelist definition based on Product Family, Customer Type and Customer Class (Order Creation)&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;Pricelist must be aligned with customer class and customer type and filter cart based on product family (DStv or GOtv).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://dev.azure.com/EBSDEVOPS/EBS/_workitems/edit/740801&quot;&gt;User Story 740801&lt;/a&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-10" value="&lt;b&gt;Pricelist definition based on Product Family, Customer Type and Customer Class (Order Creation)&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;Pricelist must be aligned with customer class and customer type and filter cart based on product family (DStv or GOtv).&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="177" y="409.6199999999999" width="144" height="121.38" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-29" value="&lt;b&gt;[ODS-03]- Stock levels check with SAP integration [external integration]&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;System returns available stock levels at the plant for the selected decoder model.&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://dev.azure.com/EBSDEVOPS/EBS/_workitems/edit/759870&quot;&gt;User Story 759870&lt;/a&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-11" value="&lt;b&gt;Stock levels check with SAP integration [external integration]&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;System returns available stock levels at the plant for the selected decoder model.&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="177" y="540" width="144" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-30" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;SAP&amp;nbsp;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/plugs-connected-128.png;strokeWidth=3;fontSize=9;imageBackground=default;direction=south;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-12" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;SAP&amp;nbsp;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/plugs-connected-128.png;strokeWidth=3;fontSize=9;imageBackground=default;direction=south;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="298.5" y="645.5" width="22.5" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-31" value="Prices are TAX included" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;verticalAlign=middle;fontFamily=Helvetica;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-13" value="Prices are TAX included" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="332.23" y="216" width="150.77" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-32" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.marketing;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-14" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.marketing;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="311" y="385.96000000000004" width="23.66" height="23.66" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="CKZN4XSmIQfmUJX1WZgz-19" source="CKZN4XSmIQfmUJX1WZgz-34" target="CKZN4XSmIQfmUJX1WZgz-25" edge="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="pEwps_pVkBZAmdYRtEJf-1" source="pEwps_pVkBZAmdYRtEJf-16" target="pEwps_pVkBZAmdYRtEJf-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-34" value="&quot;Product Group&quot; attribute needed for finance as a catalog requirement&lt;br&gt;ID:12" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#ffcccc;strokeColor=#B85450;fontSize=9;align=left;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-16" value="&quot;Product Group&quot; attribute needed for finance as a catalog requirement&lt;br&gt;ID:12" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#ffcccc;strokeColor=#B85450;fontSize=9;align=left;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="11" y="357" width="146" height="40.5" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-35" value="&lt;div&gt;&lt;span&gt;[ODS-08] Order submission Validation&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;Configure the rules that allow the sales rep to submit the order only when the checkbox &quot;order accepted&quot; is marked as true&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://dev.azure.com/EBSDEVOPS/EBS/_workitems/edit/616071&quot;&gt;User Story 616071&lt;/a&gt;&lt;span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;fontStyle=1;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-17" value="&lt;div&gt;&lt;span&gt;Order submission Validation&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;Configure the rules that allow the sales rep to submit the order only when the checkbox &quot;order accepted&quot; is marked as true.&lt;/span&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;fontStyle=1;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="564.5" y="245" width="132" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-36" value="Promotion / Discount expiration TBD" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f8cecc;strokeColor=#b85450;fontSize=9;align=left;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-18" value="Promotion / Discount expiration TBD" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f8cecc;strokeColor=#b85450;fontSize=9;align=left;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="35.5" y="480" width="124" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-37" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.marketing;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-19" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.marketing;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="148.33999999999992" y="542" width="23.66" height="23.66" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-38" value="&lt;div&gt;&lt;b&gt;NEW&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kenya/Ghana&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Customer must provide documentation to prove the exemption.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The documentation must be approved by MC internal user (approval process)&lt;/div&gt;&lt;div&gt;Only if the documentation is approved customer can be marked as tax exempted (dedicated field on customer account)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Differences: for Ghana more than one tax exempt type (different documentation provided by the customer)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tax Lists&lt;/div&gt;&lt;div&gt;Kenya&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;VAT&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;Ghana&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CST&lt;/li&gt;&lt;li&gt;NHIL&lt;/li&gt;&lt;li&gt;COVID&lt;/li&gt;&lt;li&gt;VAT&lt;/li&gt;&lt;li&gt;GETFUNDS&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=default;strokeColor=default;fontSize=9;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-20" value="&lt;div&gt;&lt;b&gt;NEW&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kenya/Ghana&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Customer must provide documentation to prove the exemption.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The documentation must be approved by MC internal user (approval process)&lt;/div&gt;&lt;div&gt;Only if the documentation is approved customer can be marked as tax exempted (dedicated field on customer account)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Differences: for Ghana more than one tax exempt type (different documentation provided by the customer)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tax Lists&lt;/div&gt;&lt;div&gt;Kenya&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;VAT&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;Ghana&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CST&lt;/li&gt;&lt;li&gt;NHIL&lt;/li&gt;&lt;li&gt;COVID&lt;/li&gt;&lt;li&gt;VAT&lt;/li&gt;&lt;li&gt;GETFUNDS&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=default;strokeColor=default;fontSize=9;align=left;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="334.66" y="297" width="151.5" height="375" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-39" value="Configure Cart" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0DFDF;sketch=1;curveFitting=1;jiggle=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-21" value="Configure Cart" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0DFDF;sketch=1;curveFitting=1;jiggle=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="339.5" y="74.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-40" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;SAP&amp;nbsp;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/plugs-connected-128.png;strokeWidth=3;fontSize=9;imageBackground=default;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-22" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;SAP&amp;nbsp;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/plugs-connected-128.png;strokeWidth=3;fontSize=9;imageBackground=default;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="443.5" y="123" width="22.5" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png;fontSize=5;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png;fontSize=5;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="492.5" y="98" width="19" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="CKZN4XSmIQfmUJX1WZgz-19" source="CKZN4XSmIQfmUJX1WZgz-39" edge="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pEwps_pVkBZAmdYRtEJf-1" source="pEwps_pVkBZAmdYRtEJf-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="563.5" y="104.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="CKZN4XSmIQfmUJX1WZgz-19" source="CKZN4XSmIQfmUJX1WZgz-21" target="CKZN4XSmIQfmUJX1WZgz-20" edge="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pEwps_pVkBZAmdYRtEJf-1" source="pEwps_pVkBZAmdYRtEJf-3" target="pEwps_pVkBZAmdYRtEJf-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1277.5" y="2537" as="sourcePoint" />
             <mxPoint x="1385.5" y="2538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-44" value="" style="image;html=1;image=img/lib/clip_art/general/Gear_128x128.png;fontSize=5;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-26" value="" style="image;html=1;image=img/lib/clip_art/general/Gear_128x128.png;fontSize=5;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="746.5" y="161.75" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CKZN4XSmIQfmUJX1WZgz-45" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png;fontSize=5;" parent="CKZN4XSmIQfmUJX1WZgz-19" vertex="1">
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png;fontSize=5;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
           <mxGeometry x="724.5" y="103" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pEwps_pVkBZAmdYRtEJf-1" source="pEwps_pVkBZAmdYRtEJf-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334.6600000000001" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-29" value="DRAFT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
+          <mxGeometry x="51.15999999999997" y="74.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pEwps_pVkBZAmdYRtEJf-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png;fontSize=5;" vertex="1" parent="pEwps_pVkBZAmdYRtEJf-1">
+          <mxGeometry x="196.16000000000008" y="100.5" width="19" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
