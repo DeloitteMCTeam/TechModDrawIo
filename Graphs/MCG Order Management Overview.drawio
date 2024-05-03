@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T14:45:45.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="CQgJpKDaEEzx0M38VAIt" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T14:46:35.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="QCT2NyIxJzElPUHC-aPB" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2303" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2997,7 +2997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="794" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2802" dy="1441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3713,8 +3713,8 @@
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PKFauFFKiXEYx9iB_Fxz-215" source="PKFauFFKiXEYx9iB_Fxz-255" target="PKFauFFKiXEYx9iB_Fxz-248" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-258" value="Integration with SAP (TMF639) runs during cart configuration in order to verify stock availability" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
-          <mxGeometry x="330" y="407.99" width="186" height="101.02" as="geometry" />
+        <mxCell id="PKFauFFKiXEYx9iB_Fxz-258" value="Integration with SAP (TMF639) runs during cart configuration in order to verify stock availability" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;arcSize=5;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
+          <mxGeometry x="330" y="407.99" width="186" height="72.01" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-259" value="&lt;i&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;GetMaterialStockAtLocation&lt;/b&gt; - (TMF639 Resource Inventory)&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
           <mxGeometry x="429.75" y="287" width="123" height="36" as="geometry" />
@@ -3725,17 +3725,17 @@
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-261" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;SAP Integration&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/plugs-connected-128.png;strokeWidth=3;fontSize=9;imageBackground=default;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
           <mxGeometry x="1129" y="114" width="22.5" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-262" value="Integration with SAP runs for&amp;nbsp;&lt;span style=&quot;text-indent: -24px;&quot;&gt;Sales Order creation in SAP (TMF652). Through sales order SFDC communicates to SAP both customer and the related items purchased (material code)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
-          <mxGeometry x="991" y="245" width="186" height="101.02" as="geometry" />
+        <mxCell id="PKFauFFKiXEYx9iB_Fxz-262" value="Integration with SAP runs for&amp;nbsp;&lt;span style=&quot;text-indent: -24px;&quot;&gt;Sales Order creation in SAP (TMF652). Through sales order SFDC communicates to SAP both customer and the related items purchased (material code)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;arcSize=4;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
+          <mxGeometry x="991" y="245" width="186" height="75" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-263" value="&lt;b&gt;&lt;i&gt;SubscriberSale&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;i&gt;(TMF652 Resource Ordering)&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;align=center;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
           <mxGeometry x="1060" y="160.39999999999964" width="123" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-264" value="Delivery document autocreated in SAP (POH)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
-          <mxGeometry x="1187.75" y="371" width="104" height="55" as="geometry" />
+        <mxCell id="PKFauFFKiXEYx9iB_Fxz-264" value="Delivery document autocreated in SAP (POH)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;arcSize=6;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
+          <mxGeometry x="1187.75" y="371" width="104" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-265" value="Once the hardware-subscription link is done, a formal check is done into the system to ensure that all needed information are available:&lt;div&gt;- Subscription, PVR and Xtraview must have hardware linked&lt;/div&gt;&lt;div&gt;Validated = TRUE on hardware&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Next steps of orchestration plan are not started until this step is finalized (traffic light)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
-          <mxGeometry x="1387" y="384" width="189" height="149" as="geometry" />
+        <mxCell id="PKFauFFKiXEYx9iB_Fxz-265" value="Once the hardware-subscription link is done, a formal check is done into the system to ensure that all needed information are available:&lt;div&gt;- Subscription, PVR and Xtraview must have hardware linked&lt;/div&gt;&lt;div&gt;Validated = TRUE on hardware&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Next steps of orchestration plan are not started until this step is finalized (traffic light)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;arcSize=3;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
+          <mxGeometry x="1387" y="384" width="189" height="126" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-266" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;SAP Integration&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/plugs-connected-128.png;strokeWidth=3;fontSize=9;imageBackground=default;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
           <mxGeometry x="1831" y="114" width="22.5" height="22.5" as="geometry" />
@@ -3746,8 +3746,8 @@
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-268" value="&lt;b&gt;&lt;i&gt;SetCustomer/SetStatus/SetWarrantyDetail&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;i&gt;(TMF639 Resource Inventory)&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;align=center;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
           <mxGeometry x="1952.25" y="156.64999999999964" width="180" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-269" value="SAP Integration runs (TMF639)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;in order to link hardware to customer in SAP and set hardware status to &quot;At Customer&quot;.&amp;nbsp;&lt;/span&gt;&lt;div&gt;More, the warranty is set in the date in which hardware is set to &quot;At Customer&quot; status&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
-          <mxGeometry x="1888.75" y="287" width="186.5" height="95" as="geometry" />
+        <mxCell id="PKFauFFKiXEYx9iB_Fxz-269" value="SAP Integration runs (TMF639)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;in order to link hardware to customer in SAP and set hardware status to &quot;At Customer&quot;.&amp;nbsp;&lt;/span&gt;&lt;div&gt;More, the warranty is set in the date in which hardware is set to &quot;At Customer&quot; status&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;arcSize=4;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
+          <mxGeometry x="1888.75" y="287" width="186.5" height="73" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-270" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png;fontSize=5;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
           <mxGeometry x="1463" y="119.47999999999956" width="20" height="20" as="geometry" />
