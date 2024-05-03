@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:30:49.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="dp3fYadmwAqpQWiavW5O" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:31:18.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="vQN18Fb8FGkZtOwTBEOr" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="1904" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2283,7 +2283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvtuyO4tdoTl3BxF-Ei7" name="DStv for Business">
-    <mxGraphModel dx="3173" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="732" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2875,8 +2875,8 @@
         <mxCell id="b6WvsV3XznPne5ETqdoA-176" value="&lt;h3&gt;10&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" parent="b6WvsV3XznPne5ETqdoA-169" vertex="1">
           <mxGeometry x="805" width="21" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="9-MZdnQJ2yKFnHcshmHu-304" value="Hardware linking process for DStv for Business is yet to be developed.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The linking process includes a series of manual steps and integrated steps (SAP)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#f8cecc;strokeColor=#b85450;fillOpacity=50;align=left;verticalAlign=top;" parent="b6WvsV3XznPne5ETqdoA-169" vertex="1">
-          <mxGeometry x="320" y="15" width="240" height="110" as="geometry" />
+        <mxCell id="9-MZdnQJ2yKFnHcshmHu-304" value="Hardware linking process for DStv for Business is yet to be developed.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The linking process includes a series of manual steps and integrated steps (SAP).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hardware sale not managed in Salesforce for DStv for Business.&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#f8cecc;strokeColor=#b85450;fillOpacity=50;align=left;verticalAlign=top;" parent="b6WvsV3XznPne5ETqdoA-169" vertex="1">
+          <mxGeometry x="310" y="7.5" width="240" height="125" as="geometry" />
         </mxCell>
         <mxCell id="b6WvsV3XznPne5ETqdoA-181" value="SAP Callback con info (POH)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="b6WvsV3XznPne5ETqdoA-169" vertex="1">
           <mxGeometry x="630.0500000000003" y="76.00000000000004" width="156.04920832822853" height="47.61904761904762" as="geometry" />
