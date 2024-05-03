@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T14:01:58.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="VpsviUO0et6ShZpVlNPn" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T14:06:36.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="lmO9h9_sX5gu_vlJxC71" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2063" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2997,7 +2997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="1152" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3838" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3413,7 +3413,7 @@
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-126" value="Create Order" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" parent="1" vertex="1">
           <mxGeometry x="503" y="3986" width="118" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-215" value="Subscription sale&amp;nbsp;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color);&quot;&gt;WITH&amp;nbsp;&lt;/font&gt;Hardware Sale - DELIVERY" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PKFauFFKiXEYx9iB_Fxz-215" value="Subscription sale&amp;nbsp;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color);&quot;&gt;WITH&amp;nbsp;&lt;/font&gt;Hardware Sale - DELIVERY (South Africa)" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="5497.98" width="2340" height="759" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="PKFauFFKiXEYx9iB_Fxz-215" source="PKFauFFKiXEYx9iB_Fxz-218" target="PKFauFFKiXEYx9iB_Fxz-221" edge="1">
@@ -3556,9 +3556,6 @@
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PKFauFFKiXEYx9iB_Fxz-215" source="PKFauFFKiXEYx9iB_Fxz-255" target="PKFauFFKiXEYx9iB_Fxz-248" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-257" value="Out of Scope for Ghana/Kenya&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rotation=-30;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
-          <mxGeometry x="-44.99777716886172" y="5.000862003927978" width="175" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-258" value="Integration with SAP (TMF639) runs during cart configuration in order to verify stock availability" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
           <mxGeometry x="343" y="357" width="186" height="101.02" as="geometry" />
@@ -4021,7 +4018,7 @@
         <mxCell id="gThxPIYWlJYF3RTNwQtw-67" value="Define the hardware linking and validation steps based on two available scenarios:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1. Hardware already owned by the customer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. Hardware purchased together with the subscription&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;--&amp;gt; focus with architects needed in order to understand what is needed to manage into and out of the orchestration plan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
           <mxGeometry x="1595.5" y="6707" width="343" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="gThxPIYWlJYF3RTNwQtw-68" value="Deep dive with WebMethods and Activation Engine teams for the KMS/CV/GoTv (activation process&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-68" value="Deep dive with WebMethods and Activation Engine teams for the KMS/CV/GoTv (activation process)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
           <mxGeometry x="1593" y="6835" width="343" height="61" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-69" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,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;fontSize=7;" parent="1" vertex="1">
