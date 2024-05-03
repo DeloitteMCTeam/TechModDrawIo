@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:16:25.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="DZGwOR4Tj2-iEq3ztHH9" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:19:04.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="YxcMXymlh4AuzxWMGYq1" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2240" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3968,7 +3968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="1269" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1656" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3978,7 +3978,7 @@
         <mxCell id="sMr27d1lrOKohnlHMBQK-1" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="90" y="590" width="570" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sMr27d1lrOKohnlHMBQK-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Order Creation Process&lt;/h1&gt;&lt;p&gt;The creation of a Residential order (MAH) is done via Salesforce UI, in two different scenarios based on whether the customer is anonymous or not.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="sMr27d1lrOKohnlHMBQK-1">
+        <mxCell id="sMr27d1lrOKohnlHMBQK-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Order Creation Process&lt;/h1&gt;&lt;p&gt;The creation of a Residential order (MAH) is done via Salesforce UI, in two different scenarios based on whether the customer is anonymous or not.&lt;/p&gt;&lt;p&gt;The submission of a order prompts the creation and link of a dedicated orchestration plan that manages all the required steps for the fulfillment of the order.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="sMr27d1lrOKohnlHMBQK-1">
           <mxGeometry x="70" width="500" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sMr27d1lrOKohnlHMBQK-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="sMr27d1lrOKohnlHMBQK-1">
