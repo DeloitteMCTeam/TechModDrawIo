@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:19:04.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="YxcMXymlh4AuzxWMGYq1" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:23:51.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="KnfwMM7-M2nU389Yt2oT" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2240" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3968,7 +3968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="1656" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7616" dy="3968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4558,288 +4558,6 @@
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-126" value="Create Order" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" vertex="1" parent="1">
           <mxGeometry x="522" y="4736" width="118" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-127" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Vlocity Order Provisioning Process&lt;/b&gt;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;for New Purchase&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="540.44" y="7239.98" width="1467" height="1050" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-128" value="Order Lifecycle DStv" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-127">
-          <mxGeometry y="30" width="1467" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-129" value="Start Order DStv" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-128">
-          <mxGeometry x="98" y="51.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-128" source="PKFauFFKiXEYx9iB_Fxz-131" target="PKFauFFKiXEYx9iB_Fxz-132">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-131" value="Assetize Order DStv" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-128">
-          <mxGeometry x="1114" y="51.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-132" value="End Order" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-128">
-          <mxGeometry x="1294" y="51.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-133" value="&lt;h3&gt;0&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-128">
-          <mxGeometry x="91.00000000000023" y="42" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-134" value="&lt;h3&gt;13&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-128">
-          <mxGeometry x="1106" y="42" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-135" value="&lt;h3&gt;14&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-128">
-          <mxGeometry x="1286" y="42" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-136" value="SingleView Billing" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-127">
-          <mxGeometry y="170" width="1467" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-137" value="Activate Order in SV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-136">
-          <mxGeometry x="849.0000000000002" y="51.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-138" value="Payment Notification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-136">
-          <mxGeometry x="464" y="29.999999999999996" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-136" source="PKFauFFKiXEYx9iB_Fxz-140" target="PKFauFFKiXEYx9iB_Fxz-138">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-140" value="Send DStv Order Billing Info&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-136">
-          <mxGeometry x="214" y="30" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-141" value="&lt;h3&gt;2&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-136">
-          <mxGeometry x="204.00000000000023" y="19" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-142" value="&lt;h3&gt;3&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-136">
-          <mxGeometry x="454.0000000000002" y="19" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-143" value="&lt;h3&gt;11&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-136">
-          <mxGeometry x="843" y="40" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-144" value="SV Party &amp;amp; Customer" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-127">
-          <mxGeometry y="320" width="1467" height="163" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-145" value="Party &amp;amp; Customer API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-144">
-          <mxGeometry x="98" y="51.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-146" value="&lt;h3&gt;1&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-144">
-          <mxGeometry x="89.00000000000023" y="42" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-147" value="SAP" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=23;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-127">
-          <mxGeometry y="483" width="1467" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-148" value="SAP Sales Order Creation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-147">
-          <mxGeometry x="463.95000000000005" y="5.689999999999998" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-147" source="PKFauFFKiXEYx9iB_Fxz-150" target="PKFauFFKiXEYx9iB_Fxz-153">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-150" value="SAP Sales Order Activation&lt;br&gt;(Good Issue)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-147">
-          <mxGeometry x="648" y="76" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-151" value="&lt;h3&gt;4&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-147">
-          <mxGeometry x="454.0000000000002" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-152" value="&lt;h3&gt;8&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-147">
-          <mxGeometry x="639" y="65.99999999999994" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-153" value="HW Customer Linking, At Customer status, Warranty" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-147">
-          <mxGeometry x="648" y="2.9999999999996" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-154" value="&lt;h3&gt;9&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-147">
-          <mxGeometry x="639" y="3" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-155" value="HW Operation DStv" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-127">
-          <mxGeometry y="623" width="1467" height="157" as="geometry">
-            <mxRectangle y="483" width="1467" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-155" source="PKFauFFKiXEYx9iB_Fxz-157" target="PKFauFFKiXEYx9iB_Fxz-163">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-157" value="Salesforce Hardware Subscription Linking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-155">
-          <mxGeometry x="467.0500000000002" y="28.689999999999998" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-155" source="PKFauFFKiXEYx9iB_Fxz-159" target="PKFauFFKiXEYx9iB_Fxz-157">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-159" value="SAP Callback con info (POH)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-155">
-          <mxGeometry x="464.05000000000007" y="-50.120000000000005" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-155" target="PKFauFFKiXEYx9iB_Fxz-159">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="544" y="-76" as="sourcePoint" />
-            <mxPoint x="542" y="-58.11999999999989" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="542" y="-76" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-161" value="&lt;h3&gt;5&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-155">
-          <mxGeometry x="458" y="-60" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-162" value="&lt;h3&gt;6.1&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-155">
-          <mxGeometry x="458" y="21" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-163" value="Hardware SAP Validation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-155">
-          <mxGeometry x="467.0500000000002" y="87.6899999999996" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-164" value="&lt;h3&gt;6.2&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-155">
-          <mxGeometry x="458" y="80" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-165" value="DStv Activation Engine" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-127">
-          <mxGeometry y="780" width="1467" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-166" value="DStv Activation Engine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-165">
-          <mxGeometry x="750.0000000000002" y="89" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-167" value="Waiting Activation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-165">
-          <mxGeometry x="467" y="18" width="156.1" height="48.62" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-168" value="&lt;h3&gt;7&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-165">
-          <mxGeometry x="457" y="10" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-169" value="&lt;h3&gt;10&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-165">
-          <mxGeometry x="745" y="76" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-170" value="DStv Communication Engine" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-127">
-          <mxGeometry y="930" width="1467" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-171" value="Send DStv Activation Communication" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-170">
-          <mxGeometry x="1131" y="46.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-172" value="&lt;h3&gt;12&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-170">
-          <mxGeometry x="1121" y="38" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-127" source="PKFauFFKiXEYx9iB_Fxz-129" target="PKFauFFKiXEYx9iB_Fxz-145">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-127" source="PKFauFFKiXEYx9iB_Fxz-171" target="PKFauFFKiXEYx9iB_Fxz-131">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1313" y="850" />
-              <mxPoint x="1313" y="184" />
-              <mxPoint x="1192" y="184" />
-            </Array>
-            <mxPoint x="1184" y="164" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-127" source="PKFauFFKiXEYx9iB_Fxz-145" target="PKFauFFKiXEYx9iB_Fxz-140">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-127">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="542" y="520" as="sourcePoint" />
-            <mxPoint x="542" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-127" source="PKFauFFKiXEYx9iB_Fxz-138" target="PKFauFFKiXEYx9iB_Fxz-148">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-127" source="PKFauFFKiXEYx9iB_Fxz-167" target="PKFauFFKiXEYx9iB_Fxz-150">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-127" source="PKFauFFKiXEYx9iB_Fxz-166" target="PKFauFFKiXEYx9iB_Fxz-137">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-127" source="PKFauFFKiXEYx9iB_Fxz-137" target="PKFauFFKiXEYx9iB_Fxz-171">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-127" source="PKFauFFKiXEYx9iB_Fxz-163" target="PKFauFFKiXEYx9iB_Fxz-167">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-127" source="PKFauFFKiXEYx9iB_Fxz-153" target="PKFauFFKiXEYx9iB_Fxz-166">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-183" value="&lt;b&gt;1&lt;/b&gt;. Integration with SV in order to create a new Billing Account&lt;br&gt;&lt;br&gt;&lt;b&gt;2&lt;/b&gt;. Integration&amp;nbsp;with SV in order to send new order info from SFDC to SV&lt;br&gt;Pay Attention: HW details should not be sent to SV because HWs are managed by SAP&lt;br&gt;&lt;br&gt;&lt;b&gt;3&lt;/b&gt;.Receive the performed payment notification from SV to SFDC" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;align=left;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="292.44" y="7431.91" width="212.5" height="222" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-184" value="Hardware Sales - in SFDC platform" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="292.44" y="7707.98" width="229" height="155" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-185" value="&lt;b&gt;4&lt;/b&gt;. SAP Sales Order creation: SFDC send request to SAP in order to create the SAP sales order and proceed with the &lt;b&gt;reservation (delivery)&amp;nbsp;&lt;/b&gt;step in SAP&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;b&gt;5&lt;/b&gt;. SAP returns HWs information: Serial number, material, object description, etc." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;align=left;fontColor=#333333;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-184">
-          <mxGeometry x="11" y="40.5" width="210" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PKFauFFKiXEYx9iB_Fxz-188" target="PKFauFFKiXEYx9iB_Fxz-192">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PKFauFFKiXEYx9iB_Fxz-188" target="PKFauFFKiXEYx9iB_Fxz-191">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-188" value="&lt;b&gt;6&lt;/b&gt;. The system has to check:&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;a) HWs have been linked to the subscription&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;b) HWs have the correct/mandatory information&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(required in order to proceed with the activation&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;process - Hardware SAP Validation process has&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to be completed)&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;align=left;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="302.44" y="7889.98" width="212.5" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-189" value="&lt;b&gt;7&lt;/b&gt;. Waiting activation is unlocked when:&lt;br&gt;- sales agent decides to click dedicated button &quot;Activate&quot; manually or&lt;br&gt;- if during the order management the clients decides to activate as soon as possible or&lt;br&gt;- via integration with FSS (out of scope)&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;align=left;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="300.69" y="8009.98" width="212.5" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-190" value="&lt;b&gt;8&lt;/b&gt;. Activation process via Integration with Activation Engine&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;align=left;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="302.44" y="8120.98" width="212.5" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-191" value="Hardware SAP Validation" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#3399FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" vertex="1" parent="1">
-          <mxGeometry x="102.44" y="7945.98" width="118" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-192" value="Salesforce Hardware Linking" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF8000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" vertex="1" parent="1">
-          <mxGeometry x="102.44" y="7877.73" width="118" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-193" value="Focus with Eposly and SingleView for billing processes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
-          <mxGeometry x="2089.44" y="7237.98" width="338" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-194" value="Define the hardware linking and validation steps based on two available scenarios:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1. Hardware already owned by the customer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. Hardware purchased together with the subscription&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;--&amp;gt; focus with architects needed in order to understand what is needed to manage into and out of the orchestration plan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
-          <mxGeometry x="2086.94" y="7294.98" width="343" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-195" value="Deep dive with WebMethods and Activation Engine teams for the KMS/CV/GoTv (activation process&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
-          <mxGeometry x="2084.44" y="7422.98" width="343" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-196" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,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;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="2414.44" y="7262.98" width="23.56" height="23.56" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-197" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,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;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="2414.44" y="7391.98" width="23.56" height="23.56" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-198" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,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;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="2412.44" y="7467.98" width="23.56" height="23.56" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-199" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="215.44" y="7227.98" width="293" height="191" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-200" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-199">
-          <mxGeometry width="293" height="191" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-201" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Legend&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-199">
-          <mxGeometry x="14.69592476489028" y="4" width="82" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-202" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" connectable="0" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-199">
-          <mxGeometry x="130.43" y="39" width="147.57" height="147.5" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-203" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-202">
-          <mxGeometry y="62.5" width="50.88620689655171" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-204" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-202">
-          <mxGeometry y="2.5" width="50.88620689655171" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-205" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-202">
-          <mxGeometry y="32.5" width="50.88620689655171" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-206" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-202">
-          <mxGeometry y="92.5" width="50.88620689655171" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-207" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-202">
-          <mxGeometry y="121.5" width="50.88620689655171" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-208" value="Milestone" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-202">
-          <mxGeometry x="61.063448275862065" y="91.5" width="69" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-209" value="Callout" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-202">
-          <mxGeometry x="61.063448275862065" width="55" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-210" value="Auto - Task" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-202">
-          <mxGeometry x="61.063448275862065" y="30.5" width="78" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-211" value="Manual Task" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-202">
-          <mxGeometry x="61.063448275862065" y="60.5" width="85" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-212" value="Push Event" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-202">
-          <mxGeometry x="61.063448275862065" y="121.5" width="79" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-213" value="sap activation è good issue oppiure è un operazione a parte?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
-          <mxGeometry x="2042.44" y="7761.98" width="343" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-214" value="&lt;b&gt;Assetize of Order Items&lt;/b&gt;&lt;br&gt;&lt;br&gt;Once Salesforce receives payment confirmation from the billing system, it automatically assetize the order items by creating the related assets and linking those to the Service Account." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2217.44" y="7562.98" width="145" height="134" as="geometry" />
-        </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-215" value="Subscription sale&amp;nbsp;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color);&quot;&gt;WITH&amp;nbsp;&lt;/font&gt;Hardware Sale - DELIVERY" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="99" y="6247.98" width="2340" height="759" as="geometry" />
         </mxCell>
@@ -5028,9 +4746,6 @@
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-271" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png;fontSize=5;" vertex="1" parent="1">
           <mxGeometry x="1734" y="6364.98" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-272" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Order Orchestration&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1462" y="7127.98" width="191" height="72" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-273" value="Subscription sale&amp;nbsp;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color);&quot;&gt;WITH&amp;nbsp;&lt;/font&gt;Hardware Sale - PICKUP&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="89" y="5459" width="2349" height="693.98" as="geometry" />
@@ -5238,6 +4953,278 @@
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-337" value="Create Order" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" vertex="1" parent="1">
           <mxGeometry x="375" y="5526" width="118" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-1" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Vlocity Order Provisioning Process&lt;/b&gt;&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;for New Purchase&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="7372" width="1467" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-2" value="Order Lifecycle DStv" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-1">
+          <mxGeometry y="30" width="1467" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-3" value="Start Order DStv" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-2">
+          <mxGeometry x="98" y="51.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-2" source="gThxPIYWlJYF3RTNwQtw-5" target="gThxPIYWlJYF3RTNwQtw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-5" value="Assetize Order DStv" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-2">
+          <mxGeometry x="1114" y="51.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-6" value="End Order" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-2">
+          <mxGeometry x="1294" y="51.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-7" value="&lt;h3&gt;0&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-2">
+          <mxGeometry x="91.00000000000023" y="42" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-8" value="&lt;h3&gt;13&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-2">
+          <mxGeometry x="1106" y="42" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-9" value="&lt;h3&gt;14&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-2">
+          <mxGeometry x="1286" y="42" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-10" value="SingleView Billing" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-1">
+          <mxGeometry y="170" width="1467" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-11" value="Activate Order in SV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-10">
+          <mxGeometry x="849.0000000000002" y="51.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-12" value="Payment Notification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-10">
+          <mxGeometry x="463.9999999999999" y="29.999999999999996" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-10" source="gThxPIYWlJYF3RTNwQtw-14" target="gThxPIYWlJYF3RTNwQtw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-14" value="Send DStv Order Billing Info&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-10">
+          <mxGeometry x="214" y="30" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-15" value="&lt;h3&gt;2&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-10">
+          <mxGeometry x="204.00000000000023" y="19" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-16" value="&lt;h3&gt;3&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-10">
+          <mxGeometry x="454.0000000000002" y="19" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-17" value="&lt;h3&gt;11&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-10">
+          <mxGeometry x="843" y="40" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-18" value="SV Party &amp;amp; Customer" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-1">
+          <mxGeometry y="320" width="1467" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-19" value="Party &amp;amp; Customer API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-18">
+          <mxGeometry x="98" y="51.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-20" value="&lt;h3&gt;1&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-18">
+          <mxGeometry x="89.00000000000023" y="42" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-21" value="SAP" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=23;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-1">
+          <mxGeometry y="483" width="1467" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-22" value="SAP Sales Order Creation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
+          <mxGeometry x="463.9999999999999" y="5.689999999999998" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-21" source="gThxPIYWlJYF3RTNwQtw-24" target="gThxPIYWlJYF3RTNwQtw-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-24" value="SAP Sales Order Activation&lt;br&gt;(Good Issue)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
+          <mxGeometry x="648" y="76" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-25" value="&lt;h3&gt;4&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
+          <mxGeometry x="454.0000000000002" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-26" value="&lt;h3&gt;8&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
+          <mxGeometry x="639" y="65.99999999999994" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-27" value="HW Customer Linking, At Customer status, Warranty" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
+          <mxGeometry x="648" y="2.9999999999996" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-28" value="&lt;h3&gt;9&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
+          <mxGeometry x="639" y="3" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-29" value="HW Operation DStv" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-1">
+          <mxGeometry y="623" width="1467" height="157" as="geometry">
+            <mxRectangle y="483" width="1467" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-29" source="gThxPIYWlJYF3RTNwQtw-31" target="gThxPIYWlJYF3RTNwQtw-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-31" value="Salesforce Hardware Subscription Linking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-29">
+          <mxGeometry x="463.9999999999999" y="28.689999999999998" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-29" source="gThxPIYWlJYF3RTNwQtw-33" target="gThxPIYWlJYF3RTNwQtw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-33" value="SAP Callback con info (POH)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-29">
+          <mxGeometry x="463.9999999999999" y="-50.120000000000005" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-34" value="&lt;h3&gt;5&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-29">
+          <mxGeometry x="454.0000000000002" y="-60" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-35" value="&lt;h3&gt;6.1&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-29">
+          <mxGeometry x="454.0000000000002" y="21" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-36" value="Hardware SAP Validation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-29">
+          <mxGeometry x="463.9999999999999" y="94.9999999999996" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-37" value="&lt;h3&gt;6.2&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-29">
+          <mxGeometry x="454.0000000000002" y="85" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-38" value="DStv Activation Engine" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-1">
+          <mxGeometry y="780" width="1467" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-39" value="DStv Activation Engine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-38">
+          <mxGeometry x="750.0000000000002" y="89" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-40" value="Waiting Activation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-38">
+          <mxGeometry x="463.97460416411417" y="18" width="156.1" height="48.62" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-41" value="&lt;h3&gt;7&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-38">
+          <mxGeometry x="454.0000000000002" y="10" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-42" value="&lt;h3&gt;10&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-38">
+          <mxGeometry x="745" y="76" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-43" value="DStv Communication Engine" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-1">
+          <mxGeometry y="930" width="1467" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-44" value="Send DStv Activation Communication" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-43">
+          <mxGeometry x="1114" y="46.19" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-45" value="&lt;h3&gt;12&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-43">
+          <mxGeometry x="1121" y="38" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-1" source="gThxPIYWlJYF3RTNwQtw-3" target="gThxPIYWlJYF3RTNwQtw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-1" source="gThxPIYWlJYF3RTNwQtw-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1193" y="913" />
+              <mxPoint x="1193" y="913" />
+            </Array>
+            <mxPoint x="1192.56" y="128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-1" source="gThxPIYWlJYF3RTNwQtw-19" target="gThxPIYWlJYF3RTNwQtw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-1" source="gThxPIYWlJYF3RTNwQtw-12" target="gThxPIYWlJYF3RTNwQtw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-1" source="gThxPIYWlJYF3RTNwQtw-40" target="gThxPIYWlJYF3RTNwQtw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-1" source="gThxPIYWlJYF3RTNwQtw-39" target="gThxPIYWlJYF3RTNwQtw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-1" source="gThxPIYWlJYF3RTNwQtw-11" target="gThxPIYWlJYF3RTNwQtw-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-1" source="gThxPIYWlJYF3RTNwQtw-36" target="gThxPIYWlJYF3RTNwQtw-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-1" source="gThxPIYWlJYF3RTNwQtw-27" target="gThxPIYWlJYF3RTNwQtw-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-1" source="gThxPIYWlJYF3RTNwQtw-22" target="gThxPIYWlJYF3RTNwQtw-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-56" value="&lt;b&gt;1&lt;/b&gt;. Integration with SV in order to create a new Billing Account&lt;br&gt;&lt;br&gt;&lt;b&gt;2&lt;/b&gt;. Integration&amp;nbsp;with SV in order to send new order info from SFDC to SV&lt;br&gt;Pay Attention: HW details should not be sent to SV because HWs are managed by SAP&lt;br&gt;&lt;br&gt;&lt;b&gt;3&lt;/b&gt;.Receive the performed payment notification from SV to SFDC" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;align=left;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="309.99999999999994" y="7563.93" width="212.5" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-57" value="Hardware Sales - in SFDC platform" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="309.99999999999994" y="7840" width="229" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-58" value="&lt;b&gt;4&lt;/b&gt;. SAP Sales Order creation: SFDC send request to SAP in order to create the SAP sales order and proceed with the &lt;b&gt;reservation (delivery)&amp;nbsp;&lt;/b&gt;step in SAP&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;b&gt;5&lt;/b&gt;. SAP returns HWs information: Serial number, material, object description, etc." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;align=left;fontColor=#333333;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-57">
+          <mxGeometry x="11" y="40.5" width="210" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gThxPIYWlJYF3RTNwQtw-61" target="gThxPIYWlJYF3RTNwQtw-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gThxPIYWlJYF3RTNwQtw-61" target="gThxPIYWlJYF3RTNwQtw-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-61" value="&lt;b&gt;6&lt;/b&gt;. The system has to check:&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;a) HWs have been linked to the subscription&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;b) HWs have the correct/mandatory information&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(required in order to proceed with the activation&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;process - Hardware SAP Validation process has&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;to be completed)&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;align=left;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="319.99999999999994" y="8022" width="212.5" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-62" value="&lt;b&gt;7&lt;/b&gt;. Waiting activation is unlocked when:&lt;br&gt;- sales agent decides to click dedicated button &quot;Activate&quot; manually or&lt;br&gt;- if during the order management the clients decides to activate as soon as possible or&lt;br&gt;- via integration with FSS (out of scope)&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;align=left;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="318.24999999999994" y="8142" width="212.5" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-63" value="&lt;b&gt;10&lt;/b&gt;. Activation process via Integration with Activation Engine&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;align=left;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="319.99999999999994" y="8253" width="212.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-64" value="Hardware SAP Validation" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#3399FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" vertex="1" parent="1">
+          <mxGeometry x="119.99999999999994" y="8078" width="118" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-65" value="Salesforce Hardware Linking" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF8000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" vertex="1" parent="1">
+          <mxGeometry x="119.99999999999994" y="8009.75" width="118" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-66" value="Focus with Eposly and SingleView for billing processes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="2107" y="7370" width="338" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-67" value="Define the hardware linking and validation steps based on two available scenarios:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1. Hardware already owned by the customer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. Hardware purchased together with the subscription&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;--&amp;gt; focus with architects needed in order to understand what is needed to manage into and out of the orchestration plan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="2104.5" y="7427" width="343" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-68" value="Deep dive with WebMethods and Activation Engine teams for the KMS/CV/GoTv (activation process&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="2102" y="7555" width="343" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-69" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,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;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="2432" y="7395" width="23.56" height="23.56" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-70" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,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;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="2432" y="7524" width="23.56" height="23.56" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-71" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,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;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="7600" width="23.56" height="23.56" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-72" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="232.99999999999994" y="7360" width="293" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-73" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-72">
+          <mxGeometry width="293" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-74" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Legend&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-72">
+          <mxGeometry x="14.69592476489028" y="4" width="82" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-75" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" connectable="0" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-72">
+          <mxGeometry x="130.43" y="39" width="147.57" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-75">
+          <mxGeometry y="62.5" width="50.88620689655171" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-75">
+          <mxGeometry y="2.5" width="50.88620689655171" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-78" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-75">
+          <mxGeometry y="32.5" width="50.88620689655171" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-75">
+          <mxGeometry y="92.5" width="50.88620689655171" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-80" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-75">
+          <mxGeometry y="121.5" width="50.88620689655171" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-81" value="Milestone" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-75">
+          <mxGeometry x="61.063448275862065" y="91.5" width="69" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-82" value="Callout" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-75">
+          <mxGeometry x="61.063448275862065" width="55" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-83" value="Auto - Task" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-75">
+          <mxGeometry x="61.063448275862065" y="30.5" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-84" value="Manual Task" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-75">
+          <mxGeometry x="61.063448275862065" y="60.5" width="85" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-85" value="Push Event" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-75">
+          <mxGeometry x="61.063448275862065" y="121.5" width="79" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-86" value="sap activation è good issue oppiure è un operazione a parte?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="7894" width="343" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-87" value="&lt;b&gt;Assetize of Order Items&lt;/b&gt;&lt;br&gt;&lt;br&gt;Once Salesforce receives payment confirmation from the billing system, it automatically assetize the order items by creating the related assets and linking those to the Service Account." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2235" y="7695" width="145" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="gThxPIYWlJYF3RTNwQtw-88" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[HW-009] | Order Orchestration&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;span style=&quot;color: rgb(0, 90, 158); font-family: &amp;quot;Segoe UI&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-weight: 300; text-transform: uppercase; text-wrap: nowrap; text-decoration-line: underline;&quot;&gt;USER STORY 764507&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1479.56" y="7260" width="191" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
