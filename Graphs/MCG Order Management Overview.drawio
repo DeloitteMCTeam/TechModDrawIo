@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T14:35:47.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="v-4geZE5ihRLkNesrwCO" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T14:36:31.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="kDaYmto1j7cb3shl2ojv" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2303" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2997,7 +2997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="8252" dy="4280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2751" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3596,7 +3596,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="PKFauFFKiXEYx9iB_Fxz-215" source="PKFauFFKiXEYx9iB_Fxz-229" target="PKFauFFKiXEYx9iB_Fxz-262" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1084" y="141" />
+              <mxPoint x="1050" y="141" />
+              <mxPoint x="1050" y="221" />
+              <mxPoint x="1084" y="221" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-229" value="SAP Sales Order&lt;br&gt;&lt;b&gt;Delivery&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#00994D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
           <mxGeometry x="1025" y="67" width="118" height="60" as="geometry" />
@@ -3637,7 +3644,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" parent="PKFauFFKiXEYx9iB_Fxz-215" source="PKFauFFKiXEYx9iB_Fxz-242" target="PKFauFFKiXEYx9iB_Fxz-258" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="281" />
+              <mxPoint x="390" y="281" />
+              <mxPoint x="390" y="391" />
+              <mxPoint x="423" y="391" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-242" value="SAP Check &lt;br&gt;Inventory" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#00994D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#E0DFDF;fontColor=default;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
           <mxGeometry x="376" y="196.39999999999964" width="118" height="60" as="geometry" />
@@ -3674,8 +3688,15 @@
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-251" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="PKFauFFKiXEYx9iB_Fxz-215" source="PKFauFFKiXEYx9iB_Fxz-253" target="PKFauFFKiXEYx9iB_Fxz-249" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" parent="PKFauFFKiXEYx9iB_Fxz-215" source="PKFauFFKiXEYx9iB_Fxz-253" target="PKFauFFKiXEYx9iB_Fxz-269" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PKFauFFKiXEYx9iB_Fxz-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PKFauFFKiXEYx9iB_Fxz-215" source="PKFauFFKiXEYx9iB_Fxz-253" target="PKFauFFKiXEYx9iB_Fxz-269" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1982" y="141" />
+              <mxPoint x="1950" y="141" />
+              <mxPoint x="1950" y="261" />
+              <mxPoint x="1982" y="261" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-253" value="Hardware SAP (linking, at customer, warranty)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#3399FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
           <mxGeometry x="1923" y="67" width="118" height="60" as="geometry" />
@@ -3690,7 +3711,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-258" value="Integration with SAP (TMF639) runs during cart configuration in order to verify stock availability" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=9;fontColor=default;fillColor=default;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
-          <mxGeometry x="343" y="357" width="186" height="101.02" as="geometry" />
+          <mxGeometry x="330" y="407.99" width="186" height="101.02" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-259" value="&lt;i&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;GetMaterialStockAtLocation&lt;/b&gt; - (TMF639 Resource Inventory)&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;" parent="PKFauFFKiXEYx9iB_Fxz-215" vertex="1">
           <mxGeometry x="429.75" y="287" width="123" height="36" as="geometry" />
