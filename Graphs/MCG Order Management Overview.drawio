@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T14:41:09.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="ZuHy8srTxt5dQzpr3IdF" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T14:41:56.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="YtfV64x9U3558pOPJeND" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2303" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2997,7 +2997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="1032" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1528" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3046,7 +3046,7 @@
           <mxGeometry x="298.05" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CKZN4XSmIQfmUJX1WZgz-9" value="From Service Account" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CKZN4XSmIQfmUJX1WZgz-1" vertex="1">
-          <mxGeometry x="2.886579864025407e-15" y="135" width="103" height="30" as="geometry" />
+          <mxGeometry x="2.886579864025407e-15" y="130" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CKZN4XSmIQfmUJX1WZgz-10" value="&lt;b&gt;Delivery &amp;amp; Installation&lt;/b&gt;&lt;br&gt;&lt;br&gt;Is installation needed immediately? (checkbox)&lt;br&gt;Is installation required by an accredited installer (checkbox) &lt;b&gt;- hidden for Ghana&lt;/b&gt;&lt;br&gt;Delivery Type: Pickup/Delivery/Already Purchased &lt;b&gt;- Pickup read only for Ghana&lt;/b&gt;&lt;br&gt;&lt;div&gt;Plant&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;" parent="CKZN4XSmIQfmUJX1WZgz-1" vertex="1">
           <mxGeometry x="200" y="190" width="172.5" height="169" as="geometry" />
@@ -3055,7 +3055,7 @@
           <mxGeometry x="484.05" y="90" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CKZN4XSmIQfmUJX1WZgz-46" value="Order Created in Status Draft" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CKZN4XSmIQfmUJX1WZgz-1" vertex="1">
-          <mxGeometry x="452.55" y="135" width="103" height="30" as="geometry" />
+          <mxGeometry x="452.55" y="130" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pEwps_pVkBZAmdYRtEJf-1" value="Order from Draft to Submitted" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1280" width="1260" height="420" as="geometry" />
