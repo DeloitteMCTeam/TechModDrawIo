@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T12:42:04.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="UeCOEa61T70zF4W-iwTh" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T12:42:24.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="O4BqCWUvry5iYc7JEr4l" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2539" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,8 +34,8 @@
         <mxCell id="d7O2_zujyi2-aSdZ7Dha-11" value="Vlocity" style="swimlane;horizontal=0;container=0;" parent="d7O2_zujyi2-aSdZ7Dha-10" vertex="1">
           <mxGeometry y="-100" width="820" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="d7O2_zujyi2-aSdZ7Dha-12" value="Milestones" style="swimlane;horizontal=0;fontSize=13;align=right;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1540" width="820" height="400" as="geometry">
+        <mxCell id="d7O2_zujyi2-aSdZ7Dha-12" value="Milestones" style="swimlane;horizontal=0;fontSize=13;align=center;" parent="1" vertex="1">
+          <mxGeometry x="140" y="1540" width="820" height="100" as="geometry">
             <mxRectangle x="40" y="40" width="30" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
