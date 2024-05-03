@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:26:14.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="6hbHfGqcNCcdPoeN_7U4" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:29:23.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="ILlIwZkdzl6lGitY8cHw" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="1904" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2283,7 +2283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvtuyO4tdoTl3BxF-Ei7" name="DStv for Business">
-    <mxGraphModel dx="3173" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1523" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3968,7 +3968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="4760" dy="2480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2720" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5017,35 +5017,41 @@
         <mxCell id="gThxPIYWlJYF3RTNwQtw-21" value="SAP" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;startSize=23;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-1">
           <mxGeometry y="483" width="1467" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="9Pu5q5Qi2NE2moofsRmi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
+          <mxGeometry x="442.02" y="3" width="200" height="127" as="geometry" />
+        </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-22" value="SAP Sales Order Creation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
-          <mxGeometry x="463.9999999999999" y="5.689999999999998" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+          <mxGeometry x="463.9999999999999" y="9.689999999999998" width="156.04920832822853" height="47.61904761904762" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-21" source="gThxPIYWlJYF3RTNwQtw-24" target="gThxPIYWlJYF3RTNwQtw-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-24" value="SAP Sales Order Activation&lt;br&gt;(Good Issue)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
-          <mxGeometry x="648" y="76" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+          <mxGeometry x="648" y="80" width="156.04920832822853" height="47.61904761904762" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-25" value="&lt;h3&gt;4&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
-          <mxGeometry x="454.0000000000002" width="21" height="21" as="geometry" />
+          <mxGeometry x="454.0000000000002" y="4" width="21" height="21" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-26" value="&lt;h3&gt;8&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
-          <mxGeometry x="639" y="65.99999999999994" width="21" height="21" as="geometry" />
+          <mxGeometry x="639" y="69.99999999999994" width="21" height="21" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-27" value="HW Customer Linking, At Customer status, Warranty" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
-          <mxGeometry x="648" y="2.9999999999996" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+          <mxGeometry x="648" y="6.9999999999996" width="156.04920832822853" height="47.61904761904762" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-28" value="&lt;h3&gt;9&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
-          <mxGeometry x="639" y="3" width="21" height="21" as="geometry" />
+          <mxGeometry x="639" y="7" width="21" height="21" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-33" value="SAP Callback con info (POH)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
-          <mxGeometry x="463.9999999999999" y="75" width="156.04920832822853" height="47.61904761904762" as="geometry" />
+          <mxGeometry x="463.9999999999999" y="79" width="156.04920832822853" height="47.61904761904762" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="gThxPIYWlJYF3RTNwQtw-21" source="gThxPIYWlJYF3RTNwQtw-22" target="gThxPIYWlJYF3RTNwQtw-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-34" value="&lt;h3&gt;5&lt;/h3&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
-          <mxGeometry x="454.0000000000002" y="66" width="21" height="21" as="geometry" />
+          <mxGeometry x="454.0000000000002" y="70" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="nra2uxtucP6oFWipXWVm-1" value="Hardware linking process is yet to be developed.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The linking process includes a series of manual steps and integrated steps (SAP).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Points 4 and 5 applicable for the sales of hardware in Salesforce&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#f8cecc;strokeColor=#b85450;fillOpacity=50;align=left;verticalAlign=top;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-21">
+          <mxGeometry x="182" y="5.75" width="240" height="128.5" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-29" value="HW Operation DStv" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-1">
           <mxGeometry y="623" width="1467" height="157" as="geometry">
@@ -5216,15 +5222,6 @@
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-85" value="Push Event" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gThxPIYWlJYF3RTNwQtw-75">
           <mxGeometry x="61.063448275862065" y="121.5" width="79" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="gThxPIYWlJYF3RTNwQtw-86" value="sap activation è good issue oppiure è un operazione a parte?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="7894" width="343" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="gThxPIYWlJYF3RTNwQtw-87" value="&lt;b&gt;Assetize of Order Items&lt;/b&gt;&lt;br&gt;&lt;br&gt;Once Salesforce receives payment confirmation from the billing system, it automatically assetize the order items by creating the related assets and linking those to the Service Account." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2235" y="7695" width="145" height="134" as="geometry" />
-        </mxCell>
-        <mxCell id="gThxPIYWlJYF3RTNwQtw-88" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[HW-009] | Order Orchestration&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;span style=&quot;color: rgb(0, 90, 158); font-family: &amp;quot;Segoe UI&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-weight: 300; text-transform: uppercase; text-wrap: nowrap; text-decoration-line: underline;&quot;&gt;USER STORY 764507&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1479.56" y="7260" width="191" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
