@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:31:18.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="vQN18Fb8FGkZtOwTBEOr" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:32:26.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Lag8i1xdXX15DuIfnG3j" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="1904" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2283,7 +2283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvtuyO4tdoTl3BxF-Ei7" name="DStv for Business">
-    <mxGraphModel dx="732" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6347" dy="3307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3968,7 +3968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="2720" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1813" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4392,7 +4392,7 @@
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-80" value="&lt;b&gt;Payment Failure&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;I receive the information that the customer has not paid&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Then:&amp;nbsp;&lt;/div&gt;&lt;div&gt;The system should automatically set the order in status Cancelled and set the &quot;Cancellation Reason&quot; field to &quot;Payment Failed&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://dev.azure.com/EBSDEVOPS/EBS/_workitems/edit/617076&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=8;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;" vertex="1" parent="PKFauFFKiXEYx9iB_Fxz-4">
           <mxGeometry x="574.51" y="1066" width="165.49" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-81" value="Subscription sale&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff0000&quot;&gt;Without&amp;nbsp;&lt;/font&gt;Hardware Sale (Owned by the customer)&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="PKFauFFKiXEYx9iB_Fxz-81" value="Subscription sale&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff0000&quot;&gt;Without&amp;nbsp;&lt;/font&gt;Hardware Sale (Owned by the customer)&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="89" y="4669" width="1642" height="672" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-81" source="PKFauFFKiXEYx9iB_Fxz-83" target="PKFauFFKiXEYx9iB_Fxz-85">
@@ -4558,7 +4558,7 @@
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-126" value="Create Order" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" vertex="1" parent="1">
           <mxGeometry x="522" y="4736" width="118" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-215" value="Subscription sale&amp;nbsp;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color);&quot;&gt;WITH&amp;nbsp;&lt;/font&gt;Hardware Sale - DELIVERY" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="PKFauFFKiXEYx9iB_Fxz-215" value="Subscription sale&amp;nbsp;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color);&quot;&gt;WITH&amp;nbsp;&lt;/font&gt;Hardware Sale - DELIVERY" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="99" y="6247.98" width="2340" height="759" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-215" source="PKFauFFKiXEYx9iB_Fxz-218" target="PKFauFFKiXEYx9iB_Fxz-221">
@@ -4747,7 +4747,7 @@
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-271" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png;fontSize=5;" vertex="1" parent="1">
           <mxGeometry x="1734" y="6364.98" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PKFauFFKiXEYx9iB_Fxz-273" value="Subscription sale&amp;nbsp;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color);&quot;&gt;WITH&amp;nbsp;&lt;/font&gt;Hardware Sale - PICKUP&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="PKFauFFKiXEYx9iB_Fxz-273" value="Subscription sale&amp;nbsp;&lt;font color=&quot;#00994d&quot; style=&quot;border-color: var(--border-color);&quot;&gt;WITH&amp;nbsp;&lt;/font&gt;Hardware Sale - PICKUP&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="89" y="5459" width="2349" height="693.98" as="geometry" />
         </mxCell>
         <mxCell id="PKFauFFKiXEYx9iB_Fxz-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PKFauFFKiXEYx9iB_Fxz-273" source="PKFauFFKiXEYx9iB_Fxz-275" target="PKFauFFKiXEYx9iB_Fxz-277">
