@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:35:49.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="0YGpdbsXrZbV-473emSg" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:37:08.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="p6IGu0vsGoqcjfH4gk5C" version="24.3.1" type="github" pages="4">
   <diagram name="FNO ISP" id="AAPcwxImeLiRLM_JlwGE">
     <mxGraphModel dx="2063" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3968,7 +3968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UfSFO_AQXxhWMNIQb9Ca" name="MAH Residential">
-    <mxGraphModel dx="589" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1179" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5152,7 +5152,7 @@
           <mxGeometry x="1612" y="8101.12" width="212.5" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-62" value="&lt;b&gt;7&lt;/b&gt;. Waiting activation is unlocked when:&lt;br&gt;- sales agent decides to click dedicated button &quot;Activate&quot; manually or&lt;br&gt;- if during the order management the clients decides to activate as soon as possible or&lt;br&gt;- via integration with FSS (out of scope)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;8.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9.&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;10&lt;/b&gt;. Activation process via Integration with Activation Engine&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;align=left;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="8240" width="212.5" height="120" as="geometry" />
+          <mxGeometry x="1612" y="8240" width="212.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="gThxPIYWlJYF3RTNwQtw-64" value="Hardware SAP Validation" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#3399FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E0DFDF;" vertex="1" parent="1">
           <mxGeometry x="1892" y="8148.249999999999" width="118" height="60" as="geometry" />
