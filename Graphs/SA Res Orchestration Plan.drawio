@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T14:44:56.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="4vvQ3cnOvVkTvydaU4TK" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-28T14:45:07.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="wCQ9KBAL4ZQnXMH-A-pG" version="24.4.9" type="github" pages="4">
   <diagram id="nKFnPByBBdyIxAdY_Jg6" name="O2F">
     <mxGraphModel dx="1674" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1994,7 +1994,7 @@
           <mxGeometry x="-440" y="-90" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-sENihQHl3n-h9CA6NPn-10" value="Questions:&lt;div&gt;- When a lead is created manually by &quot;Alvaria User&quot;, to whom is the lead assgined?&lt;/div&gt;&lt;div&gt;- What&#39;s the criteria for having a lead from &quot;New&quot; to &quot;Assigned Lead&quot;?&lt;/div&gt;&lt;div&gt;- For DStv for Business we have the possibility to reassign leads. In the context of SA Residential, who is the approver of Reassignment requests?&lt;/div&gt;&lt;div&gt;- Lead Closure: can lead be closed from Alvaria? For example, Alvaria contacts the potential customer, which rejects the offer.&lt;/div&gt;&lt;div&gt;- Lead Qualification: can a lead be set to Qualified directly from Alvaria? For example, from their system, after contacting the client, they indicate that the user is interested in proceeding.&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1136.74" y="-100" width="433.26" height="200" as="geometry" />
+          <mxGeometry x="1135.3700000000001" y="-140" width="433.26" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
