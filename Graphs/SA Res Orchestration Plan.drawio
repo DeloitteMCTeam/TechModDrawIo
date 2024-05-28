@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T15:32:07.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="lfV_ubnwjVRWBwa1FPwF" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-28T15:33:26.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="3r47dMCpGeS_rjELVKeU" version="24.4.9" type="github" pages="4">
   <diagram id="nKFnPByBBdyIxAdY_Jg6" name="O2F">
     <mxGraphModel dx="1674" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1552,7 +1552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7wB_muuHOIoqkG36dp1Q" name="Lead">
-    <mxGraphModel dx="2888" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2515" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1986,9 +1986,6 @@
         </mxCell>
         <mxCell id="-sENihQHl3n-h9CA6NPn-6" value="Lead Attributes Alvaria:&lt;div&gt;- Once leads are created, they are sent to alvaria.&lt;/div&gt;&lt;div&gt;-- Real-time for urgent leads (define how to classify urgent leads).&lt;/div&gt;&lt;div&gt;-- Batch to send lead records massively.&lt;/div&gt;&lt;div&gt;- Define what Lead attributes are required for the Alvaria integration.&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="347.25" y="975" width="173.47" height="185" as="geometry" />
-        </mxCell>
-        <mxCell id="-sENihQHl3n-h9CA6NPn-8" value="Lead Anti-Piracy not needed-" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="900" y="707" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-sENihQHl3n-h9CA6NPn-9" value="TODO:&lt;div&gt;- Review Lead draw.io&lt;/div&gt;&lt;div&gt;- Define user stories for the lead onboarding process for SA Residential.&lt;/div&gt;&lt;div&gt;-- Create those that are needed for the UI/UX.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-440" y="-90" width="310" height="100" as="geometry" />
