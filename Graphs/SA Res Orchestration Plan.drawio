@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T14:13:18.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="_2O7TTpUfGYsH2oGRJ5H" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-28T14:14:50.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="3O7FPFKNDiyHRj-i3k2k" version="24.4.9" type="github" pages="4">
   <diagram id="nKFnPByBBdyIxAdY_Jg6" name="O2F">
     <mxGraphModel dx="1674" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1552,7 +1552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7wB_muuHOIoqkG36dp1Q" name="Lead">
-    <mxGraphModel dx="3201" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2126" dy="1327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1598,7 +1598,7 @@
         </mxCell>
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-13" value="TL reassigns the&lt;br&gt;record manually and&amp;nbsp;&lt;br&gt;changes the status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" connectable="0" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-12">
           <mxGeometry x="-0.1648" relative="1" as="geometry">
-            <mxPoint x="3" as="offset" />
+            <mxPoint x="46" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-14" value="Waiting Reassignment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1683,23 +1683,16 @@
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-36" value="Closed Lead" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
           <mxGeometry x="1030.0003810567664" y="329" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YrwKcL9Fd8ckG11f0ZLP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YrwKcL9Fd8ckG11f0ZLP-35" source="YrwKcL9Fd8ckG11f0ZLP-39" target="YrwKcL9Fd8ckG11f0ZLP-49">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YrwKcL9Fd8ckG11f0ZLP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YrwKcL9Fd8ckG11f0ZLP-35" source="YrwKcL9Fd8ckG11f0ZLP-39" target="YrwKcL9Fd8ckG11f0ZLP-46">
+        <mxCell id="YrwKcL9Fd8ckG11f0ZLP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YrwKcL9Fd8ckG11f0ZLP-35" source="YrwKcL9Fd8ckG11f0ZLP-39" target="YrwKcL9Fd8ckG11f0ZLP-46">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="795" y="319" />
-              <mxPoint x="992" y="319" />
-              <mxPoint x="992" y="245" />
-            </Array>
+            <mxPoint x="884" y="244.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-39" value="Lead Follow Up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
-          <mxGeometry x="750" y="222" width="90" height="45" as="geometry" />
+          <mxGeometry x="798" y="222" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-40" value="" style="image;html=1;image=img/lib/clip_art/general/Gear_128x128.png;fontSize=7;" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
-          <mxGeometry x="830" y="262" width="20" height="20" as="geometry" />
+          <mxGeometry x="868" y="267" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
           <mxGeometry x="200" y="249" width="20" height="20" as="geometry" />
@@ -1708,7 +1701,7 @@
           <mxGeometry x="618" y="259" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
-          <mxGeometry x="810" y="262" width="20" height="20" as="geometry" />
+          <mxGeometry x="848" y="267" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-44" value="Lead Owner &lt;br&gt;schedule&lt;br style=&quot;font-size: 9px;&quot;&gt;a follow-up&lt;br&gt;activity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" connectable="0" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
           <mxGeometry x="690" y="249" as="geometry">
@@ -1721,23 +1714,11 @@
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-46" value="Qualified" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
           <mxGeometry x="1030.0003810567664" y="222" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YrwKcL9Fd8ckG11f0ZLP-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YrwKcL9Fd8ckG11f0ZLP-35" source="YrwKcL9Fd8ckG11f0ZLP-49" target="YrwKcL9Fd8ckG11f0ZLP-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YrwKcL9Fd8ckG11f0ZLP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=12;" edge="1" parent="YrwKcL9Fd8ckG11f0ZLP-35" source="YrwKcL9Fd8ckG11f0ZLP-49" target="YrwKcL9Fd8ckG11f0ZLP-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YrwKcL9Fd8ckG11f0ZLP-49" value="Anti piracy Validation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fillOpacity=100;sketch=1;curveFitting=1;jiggle=2;fontColor=#333333;" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
-          <mxGeometry x="884" y="222" width="90" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png;fontSize=7;" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
           <mxGeometry x="1087.0003810567664" y="262" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-51" value="" style="image;html=1;image=img/lib/clip_art/general/Gear_128x128.png;fontSize=7;" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
           <mxGeometry x="1107.0003810567664" y="259" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="YrwKcL9Fd8ckG11f0ZLP-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png;fontSize=7;" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
-          <mxGeometry x="951.0003810567664" y="262" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_touch_app_48px-128.png" vertex="1" parent="YrwKcL9Fd8ckG11f0ZLP-35">
           <mxGeometry x="409" y="259" width="20" height="20" as="geometry" />
