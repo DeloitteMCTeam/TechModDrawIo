@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T14:27:57.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Mkc6CKeK7cWPEMsJaZ0w" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-28T14:30:13.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="LjlhgglXZ4lUx6Gutfp1" version="24.4.9" type="github" pages="4">
   <diagram id="nKFnPByBBdyIxAdY_Jg6" name="O2F">
     <mxGraphModel dx="1674" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1552,7 +1552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7wB_muuHOIoqkG36dp1Q" name="Lead">
-    <mxGraphModel dx="2294" dy="1416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2940" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1644,7 +1644,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YrwKcL9Fd8ckG11f0ZLP-27" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Lead Reassignment Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;br&gt;Sales Rep can Submit Lead for Reassignment after specifying a dedicated reason. The approver (Team Leader) can either:&lt;br&gt;&lt;br&gt;- &lt;b&gt;Accept&lt;/b&gt; the request. In that case the lead status moves to &#39;Waiting Reassignment&#39;. When the Team Leader Reassigns manually the Lead owner, the status remains on &#39;Waiting Reassignment&#39; and the TL must change it manually to &#39;Assigned Lead&#39;, otherwise the record stays blocked and the new SR cannot work on it.&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;b&gt;Reject&lt;/b&gt;&amp;nbsp;the request. In this case the lead owner remains the same and the Lead record status goes back automatically to &#39;Assigned Lead&#39;.&lt;br&gt;&lt;br&gt;Until reassignment is completed, record remains &lt;b&gt;locked&lt;/b&gt;&amp;nbsp;(characteristic of approval processes)." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=8;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;" vertex="1" parent="1">
+        <mxCell id="YrwKcL9Fd8ckG11f0ZLP-27" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Lead Reassignment Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;br&gt;User can Submit Lead for Reassignment after specifying a dedicated reason. The approver can either:&lt;br&gt;&lt;br&gt;- &lt;b&gt;Accept&lt;/b&gt; the request. In that case the lead status moves to &#39;Waiting Reassignment&#39;. When the Approver Reassigns manually the Lead owner, the status remains on &#39;Waiting Reassignment&#39; and the Approver must change it manually to &#39;Assigned Lead&#39;, otherwise the record stays blocked.&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;b&gt;Reject&lt;/b&gt;&amp;nbsp;the request. In this case the lead owner remains the same and the Lead record status goes back automatically to &#39;Assigned Lead&#39;.&lt;br&gt;&lt;br&gt;Until reassignment is completed, record remains &lt;b&gt;locked&lt;/b&gt;&amp;nbsp;(characteristic of approval processes)." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=8;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;" vertex="1" parent="1">
           <mxGeometry x="545" y="706" width="145" height="335" as="geometry" />
         </mxCell>
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;endArrow=none;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=69;exitDy=0;exitPerimeter=0;curved=0;" edge="1" parent="1" source="YrwKcL9Fd8ckG11f0ZLP-30" target="YrwKcL9Fd8ckG11f0ZLP-39">
@@ -1652,7 +1652,8 @@
             <mxPoint x="831" y="493" as="targetPoint" />
             <Array as="points">
               <mxPoint x="788" y="646" />
-              <mxPoint x="813" y="646" />
+              <mxPoint x="860" y="646" />
+              <mxPoint x="860" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
