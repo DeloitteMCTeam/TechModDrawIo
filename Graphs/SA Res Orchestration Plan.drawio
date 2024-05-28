@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T15:33:26.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="3r47dMCpGeS_rjELVKeU" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-28T15:40:11.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="7FW1SWRXaIRyYSjwZBS9" version="24.4.9" type="github" pages="4">
   <diagram id="nKFnPByBBdyIxAdY_Jg6" name="O2F">
     <mxGraphModel dx="1674" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1552,7 +1552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7wB_muuHOIoqkG36dp1Q" name="Lead">
-    <mxGraphModel dx="2515" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2651" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1972,8 +1972,8 @@
         <mxCell id="YrwKcL9Fd8ckG11f0ZLP-144" value="Lead convertion standard outcome" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-1276.9996189432336" y="1907" width="1199" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-sENihQHl3n-h9CA6NPn-2" value="Entrance Channels:&lt;div&gt;- Alvaria Inbound Call (Manual)&lt;/div&gt;&lt;div&gt;- Marketing Cloud&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(Automatically)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Webform (Automatically)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="223" width="173.47" height="90" as="geometry" />
+        <mxCell id="-sENihQHl3n-h9CA6NPn-2" value="Entrance Channels:&lt;div&gt;- Alvaria Inbound Call (Manual)&lt;/div&gt;&lt;div&gt;- Marketing Cloud&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(Automatically - connector)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Webform (Automatically)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="223" width="173.47" height="97" as="geometry" />
         </mxCell>
         <mxCell id="-sENihQHl3n-h9CA6NPn-3" value="Lead attributes:&lt;div&gt;- To define based on MAH Res account and prepare a proposal.&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="-390" y="327" width="173.47" height="90" as="geometry" />
@@ -2007,6 +2007,9 @@
         </mxCell>
         <mxCell id="-sENihQHl3n-h9CA6NPn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=177;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" edge="1" parent="1" source="-sENihQHl3n-h9CA6NPn-3" target="-sENihQHl3n-h9CA6NPn-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-sENihQHl3n-h9CA6NPn-19" value="Automatic creation of lead from Marketing Cloud&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The system must receive lead record information from Marketing Cloud and automatically generate lead records with the correct information mapped.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The system automatically assigns the newly created lead records to the dedicated Lead Queue (see user story for Lead Queue definition).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The status of the lead is automatically set to &quot;Assigned Lead&quot;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Furthermore, the &quot;Lead Source&quot; is let accordingly (Marketing Campaign).&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="1270" width="242" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
