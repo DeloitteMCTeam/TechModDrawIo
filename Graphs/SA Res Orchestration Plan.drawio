@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T15:55:49.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="nnjk_u_ruu9OIxVHT4uL" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-28T16:00:10.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="NzckD7enkRGb4ekNFcin" version="24.4.9" type="github" pages="4">
   <diagram id="nKFnPByBBdyIxAdY_Jg6" name="O2F">
     <mxGraphModel dx="1674" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1552,7 +1552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7wB_muuHOIoqkG36dp1Q" name="Lead">
-    <mxGraphModel dx="2175" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2379" dy="1461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2019,6 +2019,9 @@
         </mxCell>
         <mxCell id="-sENihQHl3n-h9CA6NPn-22" value="&lt;div&gt;&lt;b&gt;[DRAFT] Lead Ownership Queue Definition&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Configure the required lead queues for SA Residential lead assignment.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The queue must be defined according to the structure in Alvaria.&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="260" y="1270" width="220" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-sENihQHl3n-h9CA6NPn-24" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Lead Qualification&lt;/b&gt;&lt;/div&gt;&lt;br&gt;The qualification process is defined as follows:&lt;br&gt;- &quot;New Account&quot; button at lead record page that prompts to the New Account flow (MAH Residential new account flow) (see User Story for Account Creation flow).&lt;br&gt;-- The lead status is set to &quot;Qualified&quot; automatically once the flow is successfully completed.&lt;div&gt;- If account is not created, the lead is set to &quot;Closed Lead&quot; (manual procedure executed by the user).&lt;div&gt;&lt;br&gt;Is Qualification of Lead subject of field validation?&amp;nbsp;&lt;font color=&quot;#ff3333&quot;&gt;For example in the manual scenario?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="520.72" y="1270" width="269.28" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
