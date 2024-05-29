@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T07:24:54.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="FmjHN9Gg1Qs3bPQBRNUr" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-29T07:26:48.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="30MXMlyOON3wq82mYZ7j" version="24.4.9" type="github" pages="4">
   <diagram id="nKFnPByBBdyIxAdY_Jg6" name="O2F">
     <mxGraphModel dx="1674" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1552,7 +1552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7wB_muuHOIoqkG36dp1Q" name="Lead">
-    <mxGraphModel dx="2940" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3483" dy="2049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2034,6 +2034,9 @@
         </mxCell>
         <mxCell id="-sENihQHl3n-h9CA6NPn-30" value="Alvaria" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/plugs-connected-128.png;strokeWidth=3;fontSize=9;imageBackground=default;" vertex="1" parent="1">
           <mxGeometry x="476" y="1630" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="-sENihQHl3n-h9CA6NPn-31" value="&lt;b&gt;Lead Data Model Enhancement&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Configuration of new Lead Record Type with dedicated status path.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The SA Residential Lead status path is different from DStv for Business&#39;s.&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="1270" width="242" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
