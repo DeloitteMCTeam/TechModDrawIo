@@ -1,210 +1,210 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T13:32:16.427Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zf86EgChrRCmG8BdELtj" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T13:40:19.574Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7wGn5PObJuAyRaBrKUyL" version="24.4.13" type="github">
   <diagram name="Page-1" id="iOCc6ktBS3NgpYVs54zf">
-    <mxGraphModel dx="1260" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="b6pz_huEGMT_seK_fN8o-1" value="Inbound Calls [Freshdesk]" style="swimlane;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-1" value="Inbound Calls [Freshdesk]" style="swimlane;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="40" width="1600" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-3" target="b6pz_huEGMT_seK_fN8o-6">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-3" target="b6pz_huEGMT_seK_fN8o-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-3" value="Customer Calls&amp;nbsp;&lt;div&gt;(Inbound Call)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-3" value="Customer Calls&amp;nbsp;&lt;div&gt;(Inbound Call)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="154" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-6" target="b6pz_huEGMT_seK_fN8o-8">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-6" target="b6pz_huEGMT_seK_fN8o-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-6" target="b6pz_huEGMT_seK_fN8o-11">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-6" target="b6pz_huEGMT_seK_fN8o-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-6" value="Call goes through the IPR System&lt;div&gt;Incident Response Plan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-6" value="Call goes through the IPR System&lt;div&gt;Incident Response Plan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="324" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-8" target="b6pz_huEGMT_seK_fN8o-10">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-8" target="b6pz_huEGMT_seK_fN8o-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-8" value="Ticket is created in Fresh Desk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-8" value="Ticket is created in Fresh Desk" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="564" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-10" target="b6pz_huEGMT_seK_fN8o-13">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-10" target="b6pz_huEGMT_seK_fN8o-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-10" value="Agent provides information in the NEW Ticket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-10" value="Agent provides information in the NEW Ticket" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="734" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-11" value="New customer flow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-11" value="New customer flow" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="324" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-13" target="b6pz_huEGMT_seK_fN8o-17">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-13" target="b6pz_huEGMT_seK_fN8o-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-13" value="CUstomer goes through specific flow (Ex. Audio message)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-13" value="CUstomer goes through specific flow (Ex. Audio message)" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="904" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-15" target="b6pz_huEGMT_seK_fN8o-18">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-15" target="b6pz_huEGMT_seK_fN8o-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-15" value="Customer talks with Agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-15" value="Customer talks with Agent" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="1244" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-17" target="b6pz_huEGMT_seK_fN8o-15">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-17" target="b6pz_huEGMT_seK_fN8o-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-17" value="According to Customer feedback they are redirected to a queue&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-17" value="According to Customer feedback they are redirected to a queue&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="1074" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-18" value="Agent updates ticket and status, or creates new task etc.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-18" value="Agent updates ticket and status, or creates new task etc.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="1414" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-19" value="Customer is&lt;div&gt;Authenticated&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-19" value="Customer is&lt;div&gt;Authenticated&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="454" y="120" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-20" value="Customer NOT&lt;div&gt;Authenticated&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-20" value="Customer NOT&lt;div&gt;Authenticated&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="384" y="220" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-22" target="b6pz_huEGMT_seK_fN8o-3">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="b6pz_huEGMT_seK_fN8o-1" source="b6pz_huEGMT_seK_fN8o-22" target="b6pz_huEGMT_seK_fN8o-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-22" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-22" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="60" y="140" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-23" value="START" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-23" value="START" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="b6pz_huEGMT_seK_fN8o-1" vertex="1">
           <mxGeometry x="50" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-24" value="Outbound Calls [Freshdesk - CTI Integration]" style="swimlane;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-24" value="Outbound Calls [Freshdesk - CTI Integration]" style="swimlane;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="660" width="1430" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-26" target="b6pz_huEGMT_seK_fN8o-28">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-26" target="b6pz_huEGMT_seK_fN8o-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-26" value="Agent signs in the CTI platform" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-26" value="Agent signs in the CTI platform" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="154" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-28" target="b6pz_huEGMT_seK_fN8o-30">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-28" target="b6pz_huEGMT_seK_fN8o-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-28" value="Opens soft phone with open force license" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-28" value="Opens soft phone with open force license" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="324" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-30" target="b6pz_huEGMT_seK_fN8o-33">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-30" target="b6pz_huEGMT_seK_fN8o-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-30" value="Agent see their Ticket list with Customers and Campaigns" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-30" value="Agent see their Ticket list with Customers and Campaigns" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="500" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-33" target="b6pz_huEGMT_seK_fN8o-37">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-33" target="b6pz_huEGMT_seK_fN8o-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-33" target="b6pz_huEGMT_seK_fN8o-35">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-33" target="b6pz_huEGMT_seK_fN8o-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-33" value="They choose a ticket and a Script is populated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-33" value="They choose a ticket and a Script is populated" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="670" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-35" target="b6pz_huEGMT_seK_fN8o-41">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-35" target="b6pz_huEGMT_seK_fN8o-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-35" value="Dial disposition (last calls, history, results, prediction of outcome" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-35" value="Dial disposition (last calls, history, results, prediction of outcome" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="904" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-37" target="b6pz_huEGMT_seK_fN8o-41">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-37" target="b6pz_huEGMT_seK_fN8o-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-37" value="60 sec. time before Call to read Script, info, offers, goal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-37" value="60 sec. time before Call to read Script, info, offers, goal" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="904" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-38" value="If customer asks to Callback, schedule the new Call (BSN rules apply)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-38" value="If customer asks to Callback, schedule the new Call (BSN rules apply)" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="1244" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-41" target="b6pz_huEGMT_seK_fN8o-38">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-41" target="b6pz_huEGMT_seK_fN8o-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;curved=0;" edge="1" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-41" target="b6pz_huEGMT_seK_fN8o-47">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;curved=0;" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-41" target="b6pz_huEGMT_seK_fN8o-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-41" value="Call outcome: Choose a disposition from the list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-41" value="Call outcome: Choose a disposition from the list" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="1074" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-42" value="Preview" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-42" value="Preview" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="805" y="120" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-43" value="Predictive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-43" value="Predictive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="800" y="280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-45" target="b6pz_huEGMT_seK_fN8o-26">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="b6pz_huEGMT_seK_fN8o-24" source="b6pz_huEGMT_seK_fN8o-45" target="b6pz_huEGMT_seK_fN8o-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-45" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-45" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="60" y="140" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-46" value="START" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-46" value="START" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="50" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-47" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Disposition list&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; 1. Offer accepted&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; 2. Exclusion List&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; 3. Test/ Busy&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; 4. Call Back&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-24">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-47" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Disposition list&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; 1. Offer accepted&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; 2. Exclusion List&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; 3. Test/ Busy&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; 4. Call Back&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;" parent="b6pz_huEGMT_seK_fN8o-24" vertex="1">
           <mxGeometry x="1160" y="300" width="117.63" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-48" value="Leads Import [Alvaria Unified IP integration with Freshdesk]" style="swimlane;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-48" value="Leads Import [Alvaria Unified IP integration with Freshdesk]" style="swimlane;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="1270" width="1060" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-51" target="b6pz_huEGMT_seK_fN8o-53">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-51" target="b6pz_huEGMT_seK_fN8o-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;curved=0;" edge="1" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-51" target="b6pz_huEGMT_seK_fN8o-62">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;curved=0;" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-51" target="b6pz_huEGMT_seK_fN8o-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-51" value="The fields of the attributes should be defined" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-48">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-51" value="The fields of the attributes should be defined" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-48" vertex="1">
           <mxGeometry x="154" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-53" target="b6pz_huEGMT_seK_fN8o-55">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-53" target="b6pz_huEGMT_seK_fN8o-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-53" value="Agent can choose a field to dial from this category (ex channel)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-48">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-53" value="Agent can choose a field to dial from this category (ex channel)" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-48" vertex="1">
           <mxGeometry x="324" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-55" target="b6pz_huEGMT_seK_fN8o-57">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-55" target="b6pz_huEGMT_seK_fN8o-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-55" value="Dialing team provides CSV file with Leads" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-48">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-55" value="Dialing team provides CSV file with Leads" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-48" vertex="1">
           <mxGeometry x="500" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-57" target="b6pz_huEGMT_seK_fN8o-58">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-57" target="b6pz_huEGMT_seK_fN8o-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-57" value="The CSV should be uploaded in the system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-48">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-57" value="The CSV should be uploaded in the system" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-48" vertex="1">
           <mxGeometry x="670" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-58" value="Agents dial based on the uploaded list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-48">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-58" value="Agents dial based on the uploaded list" style="rounded=1;whiteSpace=wrap;html=1;" parent="b6pz_huEGMT_seK_fN8o-48" vertex="1">
           <mxGeometry x="850" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-60" target="b6pz_huEGMT_seK_fN8o-51">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="b6pz_huEGMT_seK_fN8o-48" source="b6pz_huEGMT_seK_fN8o-60" target="b6pz_huEGMT_seK_fN8o-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-60" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-48">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-60" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="b6pz_huEGMT_seK_fN8o-48" vertex="1">
           <mxGeometry x="60" y="140" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-61" value="START" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-48">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-61" value="START" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="b6pz_huEGMT_seK_fN8o-48" vertex="1">
           <mxGeometry x="50" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-62" value="&lt;div&gt;&lt;b&gt;Generic Campaign fields&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-account&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-customer name&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-customer number&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-channel&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-package&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-product&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-smart card number&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-device number&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-lead start date&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-lead end date&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-48">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-62" value="&lt;div&gt;&lt;b&gt;Generic Campaign fields&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-account&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-customer name&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-customer number&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-channel&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-package&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-product&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-smart card number&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-device number&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-lead start date&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;-lead end date&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;" parent="b6pz_huEGMT_seK_fN8o-48" vertex="1">
           <mxGeometry x="130" y="260" width="117.63" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="b6pz_huEGMT_seK_fN8o-63" value="&lt;div&gt;&lt;b&gt;Points of attention&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Uploading:&amp;nbsp;&lt;/b&gt;Can drop files in an SFTP folder and they are uploaded in the system&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Customer consent:&amp;nbsp;&lt;/b&gt;before customer communication, we should check consent&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Salesforce API:&amp;nbsp;&lt;/b&gt;From Alvaria perspective, it can consume SFDC API to collect Leads&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Outbound Calls:&amp;nbsp;&lt;/b&gt;Integration with Fresh Desk OR move to Service Cloud&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Disposition:&amp;nbsp;&lt;/b&gt;The final disposition outcomes should be send back to Salesforce &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;align=left;" vertex="1" parent="b6pz_huEGMT_seK_fN8o-48">
+        <mxCell id="b6pz_huEGMT_seK_fN8o-63" value="&lt;div&gt;&lt;b&gt;Points of attention&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Uploading:&amp;nbsp;&lt;/b&gt;Can drop files in an SFTP folder and they are uploaded in the system&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Customer consent:&amp;nbsp;&lt;/b&gt;before customer communication, we should check consent&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Salesforce API:&amp;nbsp;&lt;/b&gt;From Alvaria perspective, it can consume SFDC API to collect Leads&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Outbound Calls:&amp;nbsp;&lt;/b&gt;Integration with Fresh Desk OR move to Service Cloud&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Disposition:&amp;nbsp;&lt;/b&gt;The final disposition outcomes should be send back to Salesforce &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=9;align=left;" parent="b6pz_huEGMT_seK_fN8o-48" vertex="1">
           <mxGeometry x="430" y="260" width="450" height="140" as="geometry" />
         </mxCell>
       </root>
