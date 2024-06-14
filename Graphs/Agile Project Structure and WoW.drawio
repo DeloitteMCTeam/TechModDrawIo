@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T16:00:51.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="C-jX2sUYsDmJVxgPd6RT" version="24.5.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-14T16:08:41.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="fTsnvAaSj_4lH16usu-j" version="24.5.4" type="github" pages="5">
   <diagram id="euhIW2OSq08py0vG352r" name="Overview">
-    <mxGraphModel dx="5958" dy="3875" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2972" dy="2326" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
         <mxCell id="HAEPS2NmpLwRnKaa5HdZ-38" value="US2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="366.88" y="1580" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-42" target="HAEPS2NmpLwRnKaa5HdZ-223" edge="1">
+        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-224" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=1 2;curved=0;strokeWidth=4;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-42" target="HAEPS2NmpLwRnKaa5HdZ-223" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="391.88" y="1850" />
@@ -183,7 +183,7 @@
         <mxCell id="HAEPS2NmpLwRnKaa5HdZ-64" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=29;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="HAEPS2NmpLwRnKaa5HdZ-42" vertex="1">
           <mxGeometry x="90" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-57" target="HAEPS2NmpLwRnKaa5HdZ-223" edge="1">
+        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-226" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=1 2;curved=0;strokeWidth=4;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-57" target="HAEPS2NmpLwRnKaa5HdZ-223" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="664.88" y="1850" />
@@ -194,40 +194,7 @@
         <mxCell id="HAEPS2NmpLwRnKaa5HdZ-66" value="&lt;h1&gt;PI Structure&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;With the ready and alocated backlog, dev team can proceed with the delivery.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="-391.88" y="1940" width="210" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-69" target="EOKNeMQFrniHKWmpQiG8-85" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="442" y="2839" />
-              <mxPoint x="1843" y="2839" />
-            </Array>
-            <mxPoint x="2041.88" y="2764" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-221" value="User Stories not injected in the PI Sprints moves to the next PI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=18;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="HAEPS2NmpLwRnKaa5HdZ-216" vertex="1" connectable="0">
-          <mxGeometry x="-0.0005" y="-2" relative="1" as="geometry">
-            <mxPoint x="-10" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-223" target="HAEPS2NmpLwRnKaa5HdZ-72" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="665.13" y="1959" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="490" y="1939" />
-              <mxPoint x="170" y="1940" />
-              <mxPoint x="170" y="2404" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-223" target="HAEPS2NmpLwRnKaa5HdZ-71" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="490" y="1939" />
-              <mxPoint x="170" y="1940" />
-              <mxPoint x="170" y="2254" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-223" target="EOKNeMQFrniHKWmpQiG8-85" edge="1">
+        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-227" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;curved=0;dashed=1;dashPattern=1 2;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-223" target="EOKNeMQFrniHKWmpQiG8-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1600" y="1939" />
@@ -2806,6 +2773,39 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="24" as="sourcePoint" />
             <mxPoint x="7" y="24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-83" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;curved=0;dashed=1;dashPattern=1 2;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-223" target="HAEPS2NmpLwRnKaa5HdZ-72" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665.13" y="1959" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="490" y="1939" />
+              <mxPoint x="170" y="1940" />
+              <mxPoint x="170" y="2404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;curved=0;dashed=1;dashPattern=1 2;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-223" target="HAEPS2NmpLwRnKaa5HdZ-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="1939" />
+              <mxPoint x="170" y="1940" />
+              <mxPoint x="170" y="2254" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-216" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;curved=0;dashed=1;dashPattern=1 2;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="HAEPS2NmpLwRnKaa5HdZ-69" target="EOKNeMQFrniHKWmpQiG8-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="442" y="2839" />
+              <mxPoint x="1843" y="2839" />
+            </Array>
+            <mxPoint x="2041.88" y="2764" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HAEPS2NmpLwRnKaa5HdZ-221" value="User Stories not injected in the PI Sprints moves to the next PI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=18;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="HAEPS2NmpLwRnKaa5HdZ-216" vertex="1" connectable="0">
+          <mxGeometry x="-0.0005" y="-2" relative="1" as="geometry">
+            <mxPoint x="-10" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
