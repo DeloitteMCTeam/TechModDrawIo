@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T12:23:26.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="NEMWt7qnZ7LX3sdvbLUQ" version="24.5.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-14T12:28:18.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="r_JHV80wmFP8PZLVdOP2" version="24.5.4" type="github" pages="5">
   <diagram id="euhIW2OSq08py0vG352r" name="Overview">
-    <mxGraphModel dx="4238" dy="2983" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2993" dy="2219" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -914,7 +914,7 @@
         <mxCell id="JJT7-j2p8_GRIKGv_l9D-76" value="Design is completed. Test Case ready to be executed by SIT Team. The test case remains in Active status until all bugs are addressed and closed." style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="JJT7-j2p8_GRIKGv_l9D-53" vertex="1">
           <mxGeometry x="370.00000000000006" y="40" width="210" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="JJT7-j2p8_GRIKGv_l9D-78" value="Once excution is completed once no bugs are opened.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="JJT7-j2p8_GRIKGv_l9D-53" vertex="1">
+        <mxCell id="JJT7-j2p8_GRIKGv_l9D-78" value="Once excution is completed and no bugs are opened.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="JJT7-j2p8_GRIKGv_l9D-53" vertex="1">
           <mxGeometry x="670" y="40" width="210" height="155" as="geometry" />
         </mxCell>
         <mxCell id="JJT7-j2p8_GRIKGv_l9D-82" value="AS IS Approach" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=22;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
