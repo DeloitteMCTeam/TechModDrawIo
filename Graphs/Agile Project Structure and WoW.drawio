@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T14:46:09.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="GCS72YiZbJbVgyd2cuOq" version="24.5.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-14T12:18:00.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="cr_fNSWuw9aB3t7CUtAY" version="24.5.4" type="github" pages="5">
   <diagram id="euhIW2OSq08py0vG352r" name="Overview">
-    <mxGraphModel dx="6694" dy="4257" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="1485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1198,7 +1198,7 @@
         <mxCell id="wx_26PyarLjLPFnxbyjg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=306.13;exitDy=81.5;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="oQbHEMFKn8SYTlvUS9j3-62" target="oQbHEMFKn8SYTlvUS9j3-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oQbHEMFKn8SYTlvUS9j3-62" value="&lt;b&gt;&lt;u&gt;TBD&lt;/u&gt;&lt;/b&gt;: Enhancement of the Deployment flow. FullUAT environment will be used for UAT.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;Note&lt;/u&gt;&lt;/b&gt;:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;For SIT phase, we have the distinction &quot;Deployed to SIT&quot; (Deploy to SIT completed) and &quot;SIT&quot; (SIT completed). For UAT we don&#39;t. The approach is than &quot;UAT&quot; for the deploy (or indicate which US is ready to be UATed). UAT team changes to &quot;Prod Deployment&quot; once UAT is completed&amp;nbsp;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;fillColor=#f8cecc;strokeColor=#b85450;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+        <mxCell id="oQbHEMFKn8SYTlvUS9j3-62" value="&lt;b&gt;&lt;u&gt;TBD&lt;/u&gt;&lt;/b&gt;: Enhancement of the Deployment flow. FullUAT environment will be used for UAT.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;u&gt;Note&lt;/u&gt;&lt;/b&gt;:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;For SIT phase, we have the distinction &quot;Deployed to SIT&quot; (Deploy to SIT completed) and &quot;SIT&quot; (SIT completed). For UAT we don&#39;t. The approach is than &quot;UAT&quot; for the deploy (or indicate which US is ready to be UATed). UAT team changes to &quot;Prod Deployment&quot; once UAT is completed&amp;nbsp;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1619.82" y="5960" width="306.13" height="150" as="geometry" />
         </mxCell>
         <mxCell id="oQbHEMFKn8SYTlvUS9j3-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=99.555;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;strokeWidth=3;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="oQbHEMFKn8SYTlvUS9j3-44" target="JJT7-j2p8_GRIKGv_l9D-50" edge="1">
@@ -2862,6 +2862,9 @@
               <mxPoint x="1775" y="10850" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R8Pz9rYEMgN6Lo0v1QrS-1" value="&lt;b&gt;&lt;u&gt;Note&lt;/u&gt;&lt;/b&gt;:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Not all user stories in a Sprint are subject of UAT testing. The UAT scope will be identified by the use of &quot;UAT&quot; Tag set in the user stories.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;The Tag is set when defining the Sprint backlog / during the Sprint.&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1294.1299999999999" y="5960" width="306.13" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
